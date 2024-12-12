@@ -1,5 +1,5 @@
-# BitDevs Córdoba
-a
+# BitDevs Barcelona
+
 Simple Zola site for hosting all of the links from meetups past and future.
 
 ## Development
