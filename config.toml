@@ -1,6 +1,6 @@
 base_url = "https://bit-devs-barcelona.github.io"
 title = "BitDevs Córdoba"
-description = "BitDevs Córdoba es una comunidad en el area de Córdoba Capital para aquellos interesados en discutir y participar en la investigación y desarrollo de Bitcoin y protocolos relacionados."
+description = "BitDevs Barcelona és una comunitat a l'àrea de Barcelona (Catalunya) per aquells interessats en la investigació i el desenvolupament de Bitcoin i protocols relacionats"
 compile_sass = true
 generate_feeds = true
 feed_filenames = ["atom.xml", "rss.xml"]
