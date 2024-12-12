@@ -1,0 +1,15 @@
+<footer class="Footer">
+    <div class="Footer-border">
+        ==============================================================================================================================================================
+    </div>
+    <div class="Footer-inner">
+        <div class="Footer-source">
+        {% for item in config.extra.icons | default(value=[]) %}
+            <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+        {% endfor %}
+    </div>
+        <div class="Footer-rss">
+            <a href="/rss.xml">RSS Feed</a>
+        </div>
+    </div>
+</footer>
