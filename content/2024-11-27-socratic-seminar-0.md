@@ -1,6 +1,7 @@
 +++
 title = "Seminario Socrático #0"
 template = "post.html"
+draft = true
 +++
 
 ### Agenda
