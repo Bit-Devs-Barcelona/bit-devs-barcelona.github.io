@@ -24,4 +24,4 @@ Si t'agradaria donar suport al projecte mitjançant una donació, si us plau, co
 <img src="/b4os_logo.png" alt="B4OS Logo" style="width:20%;height:20%;border:0;">
 </a>
 
-<a href="https://www.libreriadesatoshi.com/b4os" target="_blank" rel="noopener nofollow">B4OS</a> - Programa gratuito de formación técnica en Bitcoin para desarrolladores.
+<a href="https://www.libreriadesatoshi.com/b4os" target="_blank" rel="noopener nofollow">B4OS</a> - Programa gratuït de formació tècnica a Bitcoin per a desenvolupadors.
