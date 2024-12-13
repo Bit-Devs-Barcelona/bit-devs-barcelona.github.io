@@ -1,5 +1,5 @@
 +++
-title = "Support"
+title = "support"
 description = "Els nostres sponsors"
 +++
 
