@@ -13,8 +13,8 @@
                 <a href="/">{{ config.title }}</a>
             </div>
             <nav class="Header-nav">
-                <a href="/about">About</a>
-                <a href="/support" rel="noopener nofollow">Support</a>
+                <a href="/about">Sobre nosaltres</a>
+                <a href="/support" rel="noopener nofollow">Recolzament</a>
                 {% if config.extra.meetup %}
                   <a href="{{ config.extra.meetup }}" rel="noopener nofollow">Meetup</a>
                 {% endif %}
@@ -35,7 +35,7 @@
         </p>
 
         <div class="Home-posts">
-            <h2 class="Home-posts-title">Eventos recientes y futuros</h2>
+            <h2 class="Home-posts-title">Esdeveniments recents i futurs<h2>
             {% for page in section.pages %}
             <div class="Home-posts-post">
                 <span class="Home-posts-post-date">{{ page.date | date(format="%Y-%m-%d") }}</span>
