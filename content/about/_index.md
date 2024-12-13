@@ -1,42 +1,41 @@
 +++
 title = "About"
-description = "Todo sobre este sitio"
+description = "Tot sobre aquest lloc"
 +++
 
-BitDevs Córdoba se inspira en el original [BitDevs NYC] para ayudar a hacer
-crecer la comunidad en el área de Córdoba Capital para aquellos interesados en
-discutir y participar en la investigación y desarrollo de Bitcoin y protocolos
-relacionados. Puedes tener un buen conocimiento de los temas o ser nuevo en
-ellos, todos son bienvenidos. Ten en cuenta: la discusión será técnica.
+BitDevs Barcelona s'inspira en l'original [BitDevs NYC] per ajudar a fer créixer la comunitat en l'àrea de Barcelona (Catalunya) per aquells interessats en discutir i participar en la investigació i desenvolupament de Bitcoin i protocols relacionats.
 
-### Seminarios Socráticos
+De moment l'assistència NO és oberta i funciona per invitació. Les reunions van enfocades a persones amb un coneixement elevat sobre temes tècnics relacionats en la recerca i el desenvolupament de Bitcoin. Si ets novell en el món de Bitcoin i la teva intenció és aprendre, formar-te i fer comunitat, recomanem assistir als meetups organitzats per [Barcelona Bitcoin Only]. Meetups enfocats a TOTS els públics.
 
-Nuestros eventos mensuales de Seminario Socrático están formateados para
-fomentar el debate, el intercambio de información y la discusión animada. En
-las semanas previas al evento, los temas de discusión son recopilados por los
-miembros del meetup de una variedad de fuentes: pull requests en repositorios
-git populares (por ejemplo, Bitcoin Core, lnd, c-lightning, Joinmarket,
-Elements Alpha y Electrum), artículos de investigación, publicaciones en blogs
-técnicos, registros de IRC, monitores de red y más. Después de un período de
-discusión, algunos eventos tendrán
-[presentaciones](https://bitdevs.org/presenter-guidelines/) de proyectos de
-código abierto, empresas, investigaciones y otros contenidos relevantes. Luego
-sigue una sección de retroalimentación y preguntas y respuestas. Después del
-evento, el grupo se reúne en un restaurante cercano para socializar.
+Si creus que el teu perfil encaixa i tens ganes de participar en un BitDevs pots escriure un mail a [participate@bitdevsbarcelona.org](mailito:participate@bitdevsbarcelona.org). Estem encantats de fer creixer el grup!
 
-El día del evento se envía un boletín que detalla los temas de discusión. Los
-archivos de los temas de discusión y presentaciones se pueden encontrar en las
-descripciones de eventos pasados. La parte de discusión del evento NUNCA se
-graba. Se recomienda tener un buen conocimiento de los conceptos básicos de
-Bitcoin para aprovechar al máximo nuestros eventos Socráticos.
+### Seminaris Socràtics
 
-Por favor, si te gustaría presentar un futuro evento Socrático o tienes
-recomendaciones sobre temas para discutir abre una Issue en el repositorio
-[bitdevscordoba.org]. Los requerimientos a las presentaciones varían de acuerdo
-con la naturaleza del proyecto. Revisa nuestra lista de [donde encontrar temas]
-para futuros seminarios.
+Els nostres esdeveniments mensuals de [Seminaris Socràtics] que estan dissenyats per
+fomentar el debat, l'intercanvi dinformació i la discussió. Durant les setmanes
+ prèvies a l'esdeveniment, els temes de discussió són recollits pels
+membres del meetup d'una varietat de fonts: pull requests a repositoris
+git populars (per exemple, Bitcoin Core, lnd, c-lightning, BDK...), articles de recerca,
+ publicacions a blocs tècnics, registres de IRC, monitors de xarxa, d'entre altres. 
+ Després d'un període de discussió, alguns temes tindran
+[presentacions](https://bitdevs.org/presenter-guidelines/) de projectes de
+codi obert, empreses, investigacions i altres continguts rellevants. Després
+segueix una secció de retroalimentació i preguntes i respostes.
 
-[Seminarios Socráticos]: https://en.wikipedia.org/wiki/Socratic_method#Socratic_seminar
-[bitdevscordoba.org]: https://github.com/bitdevscordoba/bitdevscordoba.github.io/issues
+La setmana de l'esdeveniment s'envia un butlletí que detalla els temes de discussió. Els
+arxius dels temes de discussió i presentacions es poden trobar a les
+descripcions d'esdeveniments passats. La part de discussió de l'esdeveniment MAI es
+grava. Es recomana fer una lectura prèvia dels diferents temes, sobretot dels que es
+ desconneixen, per tal de poder participar en el debat.
+
+Si us plau, si t'agradaria presentar un futur esdeveniment Socràtic o tens
+recomanacions sobre temes per discutir obre una Issue al repositori
+de [GitHub]. Els requeriments a les presentacions varien dacord
+amb la naturalesa del projecte. Revisa la nostra llista d'[on trobar temes]
+per a futurs seminaris.
+
+[Seminaris Socràtics]: https://en.wikipedia.org/wiki/Socratic_method#Socratic_seminar
+[GitHub]: https://github.com/Bit-Devs-Barcelona/bit-devs-barcelona.github.io/issues
 [BitDevs NYC]: https://bitdevs.org
-[donde encontrar temas]: /about/find-topics
+[on trobar temes]: /about/find-topics
+[Barcelona Bitcoin Only]: https://x.com/bcnbitcoinonly
