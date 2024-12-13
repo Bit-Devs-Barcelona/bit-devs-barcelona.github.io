@@ -1,14 +1,15 @@
 +++
 title = "Support"
-description = "Nuestros sponsors"
+description = "Els nostres sponsors"
 +++
 
-Agradecemos especialmente a quienes nos apoyan y hacen posibles estos eventos aportando el recinto, pizza, bebidas y otros costos de organización.
+Agraïm als que ens donen suport i fan possibles aquests esdeveniments aportant espai on agrupar-nos, finançament, suport tècnic, idees i altres costos de l'organització.
+Agraïm sobretot als assistents per la seva participació que motiva a organitzar aquests esdeveniments i fomentar la recerca i el desenvolupament dedicat a Bitcoin a l'àrea de Barcelona i Catalunya.
 
-Si te gustaría apoyar el proyecto mediante una donación, por favor, comunícate por correo a [hola@bitcoinschoolar.com](mailto:hola@bitcoinschoolar.com).
+Si t'agradaria donar suport al projecte mitjançant una donació, si us plau, comunicat per correu a [donate@bitdevsbarcelona.org](mailto:donate@bitdevsbarcelona.org).
 <br>
 <br>
-
+<!--
 <a href="https://bitcoinschoolar.com/" target="_blank" rel="noopener nofollow">
  <img src="/bitcoinschoolar_logo.jpeg" alt="Bitcoin School Argentina Logo" style="width:20%;height:20%;border:0;">
 </a>
@@ -16,7 +17,7 @@ Si te gustaría apoyar el proyecto mediante una donación, por favor, comunícat
 <a href="https://bitcoinschoolar.com/" target="_blank" rel="noopener nofollow">Bitcoin School Argentina</a> - Educación libre, imparcial, independiente e impulsada por la comunidad sobre Bitcoin.
 <br>
 <br>
-
+-->
 <a href="https://www.libreriadesatoshi.com/b4os" target="_blank" rel="noopener nofollow">
 <img src="/b4os_logo.png" alt="B4OS Logo" style="width:20%;height:20%;border:0;">
 </a>
