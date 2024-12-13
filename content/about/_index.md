@@ -1,22 +1,22 @@
 +++
-title = "About"
+title = "about"
 description = "Tot sobre aquest lloc"
 +++
 
-BitDevs Barcelona s'inspira en l'original [BitDevs NYC] per ajudar a fer créixer la comunitat en l'àrea de Barcelona (Catalunya) per aquells interessats en discutir i participar en la investigació i desenvolupament de Bitcoin i protocols relacionats.
+BitDevs Barcelona s'inspira en l'original [BitDevs NYC] per ajudar a fer créixer la comunitat en l'àrea de Barcelona (Catalunya) per aquells interessats en discutir i participar en la recerca i el desenvolupament de Bitcoin i protocols relacionats.
 
-De moment l'assistència NO és oberta i funciona per invitació. Les reunions van enfocades a persones amb un coneixement elevat sobre temes tècnics relacionats en la recerca i el desenvolupament de Bitcoin. Si ets novell en el món de Bitcoin i la teva intenció és aprendre, formar-te i fer comunitat, recomanem assistir als meetups organitzats per [Barcelona Bitcoin Only]. Meetups enfocats a TOTS els públics.
+De moment l'assistència NO és oberta i funciona per invitació. Les reunions van enfocades a persones amb un coneixement elevat sobre temes tècnics. Si ets novell en el món de Bitcoin i la teva intenció és aprendre, formar-te i fer comunitat, recomanem assistir als meetups organitzats per [Barcelona Bitcoin Only]. Meetups enfocats a TOTS els públics.
 
-Si creus que el teu perfil encaixa i tens ganes de participar en un BitDevs pots escriure un mail a [participate@bitdevsbarcelona.org](mailito:participate@bitdevsbarcelona.org). Estem encantats de fer creixer el grup!
+Si creus que el teu perfil encaixa i tens ganes de participar en un BitDevs pots escriure un mail a [participate@bitdevsbarcelona.org](mailito:participate@bitdevsbarcelona.org). Estarem encantats de fer créixer el grup!
 
 ### Seminaris Socràtics
 
-Els nostres esdeveniments mensuals de [Seminaris Socràtics] que estan dissenyats per
+Els nostres esdeveniments mensuals de [Seminaris Socràtics] estan dissenyats per
 fomentar el debat, l'intercanvi dinformació i la discussió. Durant les setmanes
  prèvies a l'esdeveniment, els temes de discussió són recollits pels
 membres del meetup d'una varietat de fonts: pull requests a repositoris
-git populars (per exemple, Bitcoin Core, lnd, c-lightning, BDK...), articles de recerca,
- publicacions a blocs tècnics, registres de IRC, monitors de xarxa, d'entre altres. 
+git populars (per exemple, Bitcoin Core, LND, C-Lightning, BDK...), articles de recerca,
+ publicacions a blocs tècnics, registres de IRC, xarxes socials, d'entre altres. 
  Després d'un període de discussió, alguns temes tindran
 [presentacions](https://bitdevs.org/presenter-guidelines/) de projectes de
 codi obert, empreses, investigacions i altres continguts rellevants. Després
