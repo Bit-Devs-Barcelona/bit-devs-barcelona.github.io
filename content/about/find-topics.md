@@ -1,15 +1,14 @@
 +++
-title = "Encontrar temas"
-description = "¿Dónde encontrar temas para futuros seminarios?"
+title = "Trobar Temes"
+description = "On trobar temes per futurs seminaris?"
 +++
 
-#### Donde encontrar temas para futuros seminarios
+#### On trobar temes per futurs seminaris
 
-Abajo encontraras una lista de recursos sugeridos para encontrar temas
-interesantes para tratar en los encuentros Socráticos de BitDevs Córdoba.
-Haznos saber si conoces algún otro.
+A baix trobaràs una llista de recursos recomanats per trobar temes interessants a tractar en els seminaris socràtics de BitDevs Barcelona.
+Fes-nos saber si vols afegir algun recurs a la llista.
 
-### Listas de correo, listas de distribución de noticias, Q&As
+### Llistes de correu, llistes de distribució de noticies, Q&As
 
   - [delving bitcoin](https://delvingbitcoin.org/)
   - [bitcoin-dev mailing list](https://groups.google.com/g/bitcoindev)
@@ -17,7 +16,7 @@ Haznos saber si conoces algún otro.
   - [Bitcoin Optech](https://bitcoinops.org/)
   - [Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/)
 
-### Repositorios de git
+### Repositoris de git
 
   - [Bitcoin Core](https://github.com/bitcoin/bitcoin)
   - [Core Lightning](https://github.com/ElementsProject/lightning)
@@ -27,7 +26,7 @@ Haznos saber si conoces algún otro.
   - [Lightning Dev Kit](https://github.com/orgs/lightningdevkit)
   - [Bitcoin Dev Kit](https://github.com/bitcoindevkit)
 
-### Otros Seminarios Socráticos
+### Altres Seminaris Socrátics
  
   - [Bitcoin Core Review Club](https://bitcoincore.reviews/)
   - [BitDevs NYC](https://bitdevs.org)
