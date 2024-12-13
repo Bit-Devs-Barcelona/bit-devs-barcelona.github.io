@@ -1,4 +1,4 @@
-base_url = "https://bit-devs-barcelona.github.io"
+base_url = "https://bitdevsbarcelona.org"
 title = "BitDevs Barcelona"
 description = "BitDevs Barcelona és una comunitat a l'àrea de Barcelona (Catalunya) per aquells interessats en la investigació i el desenvolupament de Bitcoin i protocols relacionats."
 compile_sass = true
