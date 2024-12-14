@@ -1,6 +1,6 @@
 name: Build and deploy on push
 
-on: 
+on:
  push:
   branches:
    - main
@@ -17,5 +17,5 @@ jobs:
       env:
         PAGES_BRANCH: gh-pages
         BUILD_DIR: .
-        BUILD_FLAGS: --drafts
+        BUILD_FLAGS:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

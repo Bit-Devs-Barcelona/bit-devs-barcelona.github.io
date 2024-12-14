@@ -13,10 +13,10 @@ Si creus que el teu perfil encaixa i tens ganes de participar en un BitDevs pots
 
 Els nostres esdeveniments mensuals de [Seminaris Socràtics] estan dissenyats per
 fomentar el debat, l'intercanvi dinformació i la discussió. Durant les setmanes
- prèvies a l'esdeveniment, els temes de discussió són recollits pels
+ prèvies a l'esdeveniment, els temes de discussió són escollits pels
 membres del meetup d'una varietat de fonts: pull requests a repositoris
 git populars (per exemple, Bitcoin Core, LND, C-Lightning, BDK...), articles de recerca,
- publicacions a blocs tècnics, registres de IRC, xarxes socials, d'entre altres. 
+ publicacions a blocs tècnics, registres de IRC, xarxes socials, d'entre altres.
  Després d'un període de discussió, alguns temes tindran
 [presentacions](https://bitdevs.org/presenter-guidelines/) de projectes de
 codi obert, empreses, investigacions i altres continguts rellevants. Després

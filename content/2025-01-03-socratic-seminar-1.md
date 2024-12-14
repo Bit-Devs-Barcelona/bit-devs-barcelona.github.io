@@ -1,6 +1,7 @@
 +++
-title = "Seminari Socràtic #0"
+title = "Seminari Socràtic #1"
 template = "post.html"
+draft = true
 +++
 
 ### Properament!
