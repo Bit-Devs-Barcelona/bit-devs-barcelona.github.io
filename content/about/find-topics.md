@@ -26,8 +26,8 @@ Fes-nos saber si vols afegir algun recurs a la llista.
   - [Lightning Dev Kit](https://github.com/orgs/lightningdevkit)
   - [Bitcoin Dev Kit](https://github.com/bitcoindevkit)
 
-### Altres Seminaris Socrátics
- 
+### Altres Seminaris Socràtics
+
   - [Bitcoin Core Review Club](https://bitcoincore.reviews/)
   - [BitDevs NYC](https://bitdevs.org)
   - [BitDevs London](https://www.meetup.com/London-Bitcoin-Devs/)
@@ -35,8 +35,10 @@ Fes-nos saber si vols afegir algun recurs a la llista.
   - [BitDevs Sydney](https://www.meetup.com/Bitcoin_Sydney/)
   - [BitDevs Berlin](https://bitdevs.berlin/)
   - [BitDevs Los Angeles](https://bitdevsla.org)
-  
+  - [BitDevs Santiago](https://santiagobitdevs.com/)
+  - [BitDevs Córdoba](https://bitdevscordoba.github.io/)
+
 ### [Freenode IRC](https://freenode.net/)
 
   - #bitcoin-core-pr-reviews
-  - #bitcore-core-dev  
+  - #bitcore-core-dev

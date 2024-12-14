@@ -11,17 +11,9 @@ Agraïm sobretot als assistents per la seva participació que motiva a organitza
 Si t'agradaria donar suport al projecte mitjançant una donació, si us plau, comunicat per correu a [donate@bitdevsbarcelona.org](mailto:donate@bitdevsbarcelona.org).
 <br>
 <br>
-<!--
-<a href="https://bitcoinschoolar.com/" target="_blank" rel="noopener nofollow">
- <img src="/bitcoinschoolar_logo.jpeg" alt="Bitcoin School Argentina Logo" style="width:20%;height:20%;border:0;">
-</a>
 
-<a href="https://bitcoinschoolar.com/" target="_blank" rel="noopener nofollow">Bitcoin School Argentina</a> - Educación libre, imparcial, independiente e impulsada por la comunidad sobre Bitcoin.
-<br>
-<br>
--->
 <a href="https://www.libreriadesatoshi.com/b4os" target="_blank" rel="noopener nofollow">
 <img src="/b4os_logo.png" alt="B4OS Logo" style="width:20%;height:20%;border:0;">
 </a>
 
-<a href="https://www.libreriadesatoshi.com/b4os" target="_blank" rel="noopener nofollow">B4OS</a> - Programa gratuït de formació tècnica a Bitcoin per a desenvolupadors.
+<a href="https://www.libreriadesatoshi.com/b4os" target="_blank" rel="noopener nofollow">B4OS</a> - Programa gratuït de formació tècnica sobre Bitcoin per a desenvolupadors.
