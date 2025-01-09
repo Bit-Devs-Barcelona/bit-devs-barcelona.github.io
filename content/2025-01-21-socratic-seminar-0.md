@@ -25,6 +25,7 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algun
 - 2024 Bitcoin Rewind by [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2024/12/20/)
 - SeedSigner en català. [Transifex](https://app.transifex.com/seedsigner/seedsigner/dashboard/)
 - Threshold Taproot Multisig by [Nunchuk](https://nunchuk.io/blog/taproot-multisig)
+- Solucions PostQuantum. Des de [modificar la generació de claus](https://conduition.io/cryptography/quantum-hbs/) fins a l'ús de [taproot amb signatures resistents a QC](https://groups.google.com/g/bitcoindev/c/8O857bRSVV8).
 
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
