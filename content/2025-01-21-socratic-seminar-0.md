@@ -26,6 +26,7 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algun
 - SeedSigner en català. [Transifex](https://app.transifex.com/seedsigner/seedsigner/dashboard/)
 - Threshold Taproot Multisig by [Nunchuk](https://nunchuk.io/blog/taproot-multisig)
 - Solucions PostQuantum. Des de [modificar la generació de claus](https://conduition.io/cryptography/quantum-hbs/) fins a l'ús de [taproot amb signatures resistents a QC](https://groups.google.com/g/bitcoindev/c/8O857bRSVV8).
+- Time Warp Attacks. Comparativa de l'atac [original](https://bitcoinops.org/en/topics/time-warp/) amb la [nova versió](https://bitcoinops.org/en/newsletters/2024/08/16/#new-time-warp-vulnerability-in-testnet4).
 
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
