@@ -24,7 +24,7 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algun
 ### Temes
 - Solucions PostQuantum. Des de [modificar la generació de claus](https://conduition.io/cryptography/quantum-hbs/) fins a l'ús de [taproot amb signatures resistents a QC](https://groups.google.com/g/bitcoindev/c/8O857bRSVV8).
 - Threshold Taproot Multisig by [Nunchuk](https://nunchuk.io/blog/taproot-multisig)
-- Proof of Ownership. Discussió de les esmenes al BIP[137](https://github.com/bitcoin/bips/blob/master/bip-0137.mediawiki) per incloure estàndards per a les signatures Schnorr, classic multisig i musig.
+- Proof of Ownership. Discussió de les esmenes al [BIP137](https://github.com/bitcoin/bips/blob/master/bip-0137.mediawiki) per incloure estàndards per a les signatures Schnorr, classic multisig i musig.
 - Time Warp Attacks. Comparativa de l'atac [original](https://bitcoinops.org/en/topics/time-warp/) amb la [nova versió](https://bitcoinops.org/en/newsletters/2024/08/16/#new-time-warp-vulnerability-in-testnet4).
 - 2024 Bitcoin Rewind by [Bitcoin Optech](https://bitcoinops.org/en/newsletters/2024/12/20/)
 
