@@ -5,7 +5,7 @@ draft = false
 +++
 
 ### Agenda
-18:30h Presentacions\
+18:00h Presentacions\
 19:00h Seminari Socràtic on es revisaran múltiples temes relacionats amb Bitcoin\
 20:00h Tancament
 
