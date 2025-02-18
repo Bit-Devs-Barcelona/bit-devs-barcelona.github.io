@@ -24,7 +24,8 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algun
 ### Temes
 - DATUM Protocol: Discutir el [disseny](https://github.com/OCEAN-xyz/datum_gateway), funcionament i limitacions del protocol de mineria [DATUM](https://ocean.xyz/docs/datum).
 - SeedSigner en [Català](https://x.com/sliv3r__/status/1891579131218767992)
-- Assume UTXO set- [GitHub](https://github.com/bitcoin/bitcoin/issues/29616)
+- Assume UTXO set - [GitHub](https://github.com/bitcoin/bitcoin/issues/29616)
+- [UTXO Oracle](https://utxo.live/oracle/): L'UTXO Oracle permet estimar el preu en dollars del Bitcoin només amb l'UTXO set. Aquesta eina fa temps que va sortir, però amb l'aparició de les runes va deixar de ser efectiva. Ara, l'autor l'ha modificat perquè torni a ser acurada en la predicció del preu.
 
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
