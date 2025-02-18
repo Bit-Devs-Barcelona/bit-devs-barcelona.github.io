@@ -24,7 +24,7 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algun
 ### Temes
 - DATUM Protocol: Discutir el [disseny](https://github.com/OCEAN-xyz/datum_gateway), funcionament i limitacions del protocol de mineria [DATUM](https://ocean.xyz/docs/datum).
 - SeedSigner en [Català](https://x.com/sliv3r__/status/1891579131218767992)
-- Assume UTXO set- [GitHub](https://github.com/bitcoin/bitcoin/issues/29616)
+- Assume UTXO set- [GitHub](https://github.com/bitcoin/bitcoin/blob/master/doc/design/assumeutxo.md)
 
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
