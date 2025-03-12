@@ -26,6 +26,7 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algun
 - SeedSigner en [Català](https://x.com/sliv3r__/status/1891579131218767992)
 - Assume UTXO set - [GitHub](https://github.com/bitcoin/bitcoin/issues/29616)
 - [UTXO Oracle](https://utxo.live/oracle/): L'UTXO Oracle permet estimar el preu en dollars del Bitcoin només amb l'UTXO set. Aquesta eina fa temps que va sortir, però amb l'aparició de les runes va deixar de ser efectiva. Ara, l'autor l'ha modificat perquè torni a ser acurada en la predicció del preu.
+- Community Backups de [Rewind Bitcoin](https://rewindbitcoin.com/community-backups) utilitzant la xarxa P2P de [Pears](https://docs.pears.com/guides/getting-started)
 
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
