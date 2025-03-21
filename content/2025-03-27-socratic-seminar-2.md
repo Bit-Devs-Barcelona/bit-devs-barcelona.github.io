@@ -22,7 +22,7 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algun
 - Proposa temes pel Seminari Socràtic! [Pots obrir una issue al repo de GitHub](https://github.com/Bit-Devs-Barcelona/bit-devs-barcelona.github.io/issues) proposant un tema per parlar. [On trobar temes?](/about/find-topics/)
 
 ### Temes
-
+- Protocols CSV (Client Side Validation), en particular, [Shielded CSV](https://eprint.iacr.org/2025/068.pdf), que pretén millorar tant la privadesa de les transaccions de Bitcoin com l'escalabilitat del sistema. [Aquesta presentació](https://www.youtube.com/watch?v=zpghEIWveJI) d'en Jonas Nick resumeix el protocol sense entrar en tots els detalls que s'expliquen a l'article.
 
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
