@@ -1,5 +1,5 @@
 +++
-title = "Seminari Socràtic #2"
+title = "Seminari Socràtic #3"
 template = "post.html"
 draft = false
 +++
@@ -14,7 +14,7 @@ Escola d'Enginyeria de la Universitat Autònoma de Barcelona.\
 La localització exacta s'enviarà per missatge directe als assistents.
 
 ### Anuncis
-Estem molt contents de poder presentar el nostre tercer [Seminari Socràtic](/about)!\
+Estem molt contents de poder presentar el nostre quart [Seminari Socràtic](/about)!\
 Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algunes despeses del projecte i a la UAB per l'espai.
 
 ### Recordatoris
@@ -22,10 +22,7 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algun
 - Proposa temes pel Seminari Socràtic! [Pots obrir una issue al repo de GitHub](https://github.com/Bit-Devs-Barcelona/bit-devs-barcelona.github.io/issues) proposant un tema per parlar. [On trobar temes?](/about/find-topics/)
 
 ### Temes
-- Protocols CSV (Client Side Validation), en particular, [Shielded CSV](https://eprint.iacr.org/2025/068.pdf), que pretén millorar tant la privadesa de les transaccions de Bitcoin com l'escalabilitat del sistema. [Aquesta presentació](https://www.youtube.com/watch?v=zpghEIWveJI) d'en Jonas Nick resumeix el protocol sense entrar en tots els detalls que s'expliquen a l'article.
-- HardForks: Diferències entre soft forks, hard forks i chainsplits. Repassar els [hard forks històrics](https://en.bitcoin.it/wiki/Consensus_versions) de Bitcoin, [com es van dur a terme i per què](https://bitcoindevphilosophy.com/#whenshithitsthefan), etc. Discutir sobre possibles hard forks en el futur i debatre'n la viabilitat.
-- Txs amb ID duplicats a la blockchain. Com per arreglar aquest problema es va introduir un potencial [futur hard-fork](https://blog.bitmex.com/bitcoins-duplicate-transactions/)
-
+TBD
 
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
