@@ -22,7 +22,7 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algun
 - Proposa temes pel Seminari Socràtic! [Pots obrir una issue al repo de GitHub](https://github.com/Bit-Devs-Barcelona/bit-devs-barcelona.github.io/issues) proposant un tema per parlar. [On trobar temes?](/about/find-topics/)
 
 ### Temes
-TBD
+- [PurrSettle](https://blog.crema.sh/PurrSettle) és un [mecanisme de prevenció de doble despesa per a transaccions amb zero confirmacions](https://eprint.iacr.org/2017/394.pdf) basat en la vulnerabilitat de la reutilització del _nonce_ en signatures. El mecanisme es podria desplegar si s'activés [OP_CAT](https://bitcoinops.org/en/topics/op_cat/). Ja hi ha una [implementació en rust](https://github.com/crema-labs/PurrSettle/) disponible i alguna [transacció](https://catnet-mempool.btcwild.life/tx/4bf1ef90ca0575c8aa951282a157fbe646b890829e1b54e7df16e3aafe86a0f5) a la signet d'StarkWare que l'incorpora.
 
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
