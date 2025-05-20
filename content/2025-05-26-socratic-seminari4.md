@@ -24,6 +24,8 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algun
 ### Temes
 
 - [Erlay](https://arxiv.org/pdf/1905.10518) és un protocol eficient en amplada de banda per a la retransmissió de transaccions a la xarxa P2P de Bitcoin, construït sobre [BIP330](https://github.com/bitcoin/bips/blob/master/bip-0330.mediawiki), que permet una reconciliació eficient dels anuncis de transaccions. Consulta el [seguiment del projecte](https://github.com/bitcoin/bitcoin/issues/30249). (Format presentació per [Sergi Delgado](https://srgi.me/))
+- **Please god not OP_RETURN filters:** Per què no volem una discrepància entre el que hi ha la mempool i el que realment entra en el següent bloc? Com afecta això als incentius miners? Per què fa més difícil l'estimació de taxes? Com afecta a la Lightning Network? És la política de mempool personalitzable per l'usuari un atzucac? [Xerrada de la Gloria Zhao sobre les polítiques de la mempool](https://vimeo.com/704956163). Més context a la [Issue](https://github.com/Bit-Devs-Barcelona/bit-devs-barcelona.github.io/issues/13).
+
 
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
