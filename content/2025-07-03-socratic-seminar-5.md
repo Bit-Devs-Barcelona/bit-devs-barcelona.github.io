@@ -23,7 +23,8 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algun
 
 ### Temes
 
-- TBA
+- CTV-CSFS - Un grup de desenvolupadors han firmat [una carta](https://ctv-csfs.com/) demanant la revisió i activació dels soft-forks CTV i CSFS (BIPS [119](https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki) i [348](https://github.com/bitcoin/bips/blob/master/bip-0348.md) respectivament).
+- [Dust Expiry: Clean the UTXO set from spam](https://delvingbitcoin.org/t/dust-expiry-clean-the-utxo-set-from-spam/1707) -- RobinLinus proposa un soft-fork per eliminar el dust que no sera gastat del UTXO set.
 
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
