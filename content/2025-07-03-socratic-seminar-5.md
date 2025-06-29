@@ -25,6 +25,7 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algun
 
 - CTV-CSFS - Un grup de desenvolupadors han firmat [una carta](https://ctv-csfs.com/) demanant la revisió i activació dels soft-forks CTV i CSFS (BIPS [119](https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki) i [348](https://github.com/bitcoin/bips/blob/master/bip-0348.md) respectivament).
 - [Dust Expiry: Clean the UTXO set from spam](https://delvingbitcoin.org/t/dust-expiry-clean-the-utxo-set-from-spam/1707) -- RobinLinus proposa un soft-fork per eliminar el dust que no sera gastat del UTXO set.
+- [Emulating OP_RAND](https://delvingbitcoin.org/t/emulating-op-rand/1409) -- El llenguatge d'scripting the Bitcoin no permet (de manera directa) introduir aleatorietat en les condicions de despesa. Oleksandr Kurbatov proposa un protocol interactiu entre dues parts que permet incorporar aquesta aleatorietat de forma controlada, emulant el que ell n'anomena l'OP_RAND opcode. [OPTECH](https://bitcoinops.org/en/podcast/2025/02/11/#emulating-op-rand), [Format Paper](https://arxiv.org/pdf/2501.16451).
 
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
