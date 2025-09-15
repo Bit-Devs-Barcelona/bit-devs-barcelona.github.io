@@ -23,7 +23,7 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algun
 
 ### Temes
 
-- [Compact Blocks Prefill](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052/34) - David Gumberg proposa millorar la velocitat de reconstrucció de "compact blocks" pre-omplint els blocs amb algunes transaccions que pensem que els nostres peers no coneixen, evitant així algunes rondes de comunicació a l'hora de reconstruir els blocs.
+- [Compact Blocks Prefill](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052/34) - David Gumberg proposa millorar la velocitat de reconstrucció de "compact blocks" pre-omplint els blocs amb algunes transaccions que pensem que els nostres peers no coneixen, evitant així algunes rondes de comunicació a l'hora de reconstruir els blocs i millorant la velocitat de construcció dels blocs.
 - [Sharing block templates](https://delvingbitcoin.org/t/sharing-block-templates/1906) - AJTowns proposa compartir templates de blocs entre nodes per tal d'advertir als nostres peers sobre què pensem que serà minat en el pròxim block. La proposta ha rebut el número de [BIP 153](https://github.com/bitcoin/bips/pull/1937) i s'ha obert un [PR#33191](https://github.com/bitcoin/bitcoin/pull/33191) a Bitcoin Core per implementar-ho.
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
