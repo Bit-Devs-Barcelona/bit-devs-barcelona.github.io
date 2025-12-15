@@ -23,8 +23,8 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algun
 
 ### Temes
 
+- [RawBit](https://rawbit.io/) és una nova eina per a la creació de transaccions a partir d'una interfície gràfica. La construcció de transaccions es fa fent *drag-and-drops* de les diverses components. Permet construccions complexes i l'execució d'scripts (veient l'evolució de la pila a cada pas).
 - The Future of Our BitDevs
-- TBA
 
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
