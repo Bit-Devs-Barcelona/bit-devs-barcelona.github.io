@@ -1,5 +1,5 @@
 +++
-title = "Seminari Socràtic #8"
+title = "Seminari Socràtic #9"
 template = "post.html"
 draft = false
 +++
