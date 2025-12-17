@@ -14,7 +14,7 @@ Escola d'Enginyeria de la Universitat Autònoma de Barcelona.\
 La localització exacta s'enviarà per missatge directe als assistents.
 
 ### Anuncis
-Estem molt contents de poder presentar el nostre tercer [Seminari Socràtic](/about)!\
+Estem molt contents de poder presentar el nostre segon [Seminari Socràtic](/about)!\
 Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algunes despeses del projecte i a la UAB per l'espai.
 
 ### Recordatoris
