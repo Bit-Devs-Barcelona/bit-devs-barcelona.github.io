@@ -8,7 +8,7 @@ Agraïm als que ens donen suport i fan possibles aquests esdeveniments aportant 
 Agraïm sobretot als assistents per la seva participació que motiva a organitzar aquests esdeveniments i fomentar la recerca i el desenvolupament dedicat a Bitcoin a l'àrea de Barcelona i Catalunya.
 
 
-Si t'agradaria donar suport al projecte mitjançant una donació, si us plau, comunicat per correu a [donate@bitdevsbarcelona.org](mailto:donate@bitdevsbarcelona.org).
+Si t'agradaria donar suport al projecte mitjançant una donació, si us plau, comunicat per correu a [bitdevsbarcelona@gmail.com].
 <br>
 <br>
 
@@ -17,3 +17,5 @@ Si t'agradaria donar suport al projecte mitjançant una donació, si us plau, co
 </a>
 
 <a href="https://www.libreriadesatoshi.com/b4os" target="_blank" rel="noopener nofollow">B4OS</a> - Programa gratuït de formació tècnica sobre Bitcoin per a desenvolupadors.
+
+[bitdevsbarcelona@gmail.com]: mailito:bitdevsbarcelona@gmail.com

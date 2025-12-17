@@ -5,9 +5,14 @@ description = "Tot sobre aquest lloc"
 
 BitDevs Barcelona s'inspira en l'original [BitDevs NYC] per ajudar a fer créixer la comunitat en l'àrea de Barcelona (Catalunya) per aquells interessats en discutir i participar en la recerca i el desenvolupament de Bitcoin i protocols relacionats.
 
-De moment l'assistència NO és oberta i funciona per invitació. Les reunions van enfocades a persones amb un coneixement elevat sobre temes tècnics. Si ets novell en el món de Bitcoin i la teva intenció és aprendre, formar-te i fer comunitat, recomanem assistir als meetups organitzats per [Barcelona Bitcoin Only]. Meetups enfocats a TOTS els públics.
+La participació és oberta i va enfocada a tota persona que vulgui aprendre sobre temes tècnics. Si ets novell en el món de Bitcoin i la teva intenció és aprendre sobre temes no-tècnics, formar-te i fer comunitat, recomanem també assistir als meetups organitzats per [Barcelona Bitcoin Only]. Meetups enfocats a TOTS els públics.
 
-Si creus que el teu perfil encaixa i tens ganes de participar en un BitDevs pots escriure un mail a [participate@bitdevsbarcelona.org](mailito:participate@bitdevsbarcelona.org). Estarem encantats de fer créixer el grup!
+Per norma general els seminaris socràtics se celebraran l'últim dimarts de cada mes a l'[Escola d'Enginyeria] de la Universitat Autònoma de Barcelona.
+Ubicació de l'Escola a [google maps].
+
+Indicacions:
+
+Els seminaris se celebraran a l'aula Shannon. Per arribar-hi agafa l'ascensor de l'entrada fins a la segona planta. En sortir de l'ascensor ves cap a l'esquerra, l'aula Shannon queda al principi del passadís al costat esquerre.
 
 ### Seminaris Socràtics
 
@@ -39,3 +44,5 @@ per a futurs seminaris.
 [BitDevs NYC]: https://bitdevs.org
 [on trobar temes]: /about/find-topics
 [Barcelona Bitcoin Only]: https://x.com/bcnbitcoinonly
+[Escola d'Enginyeria]: https://www.uab.cat/ca/enginyeria
+[google maps]: https://maps.app.goo.gl/a6EQgpF9yjr68nhV9

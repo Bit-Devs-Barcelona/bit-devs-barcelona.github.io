@@ -6,7 +6,7 @@ description = "On trobar temes per futurs seminaris?"
 #### On trobar temes per futurs seminaris
 
 A baix trobaràs una llista de recursos recomanats per trobar temes interessants a tractar en els seminaris socràtics de BitDevs Barcelona.
-Fes-nos saber si vols afegir algun recurs a la llista.
+Pots fer-nos saber si vols afegir algun recurs a la llista o proposar un tema obrint una "issue" al [GitHub](https://github.com/Bit-Devs-Barcelona/bit-devs-barcelona.github.io).
 
 ### Llistes de correu, llistes de distribució de noticies, Q&As
 
