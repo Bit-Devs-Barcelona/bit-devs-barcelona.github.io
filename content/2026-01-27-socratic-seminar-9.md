@@ -26,6 +26,7 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algun
 - [Bitcoin Core: Retransmissió de transaccions només via connexions de curta durada I2P i Tor.](https://github.com/bitcoin/bitcoin/pull/29415)
 - [Quines versions de Bitcoin Core corren els mining pools.](https://bnoc.xyz/t/bitcoin-core-versions-run-by-mining-pools/57)
 - [Frigate: un servidor d'Electrum experimental que està provant l'escaneig per Silent Payments amb claus efímeres dels clients.](https://github.com/sparrowwallet/frigate) 
+- [Bitcoin Core: Bug en la migració de wallets.](https://x.com/bitcoincoreorg/status/2008284092983369886)
 
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
