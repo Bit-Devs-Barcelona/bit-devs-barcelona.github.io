@@ -33,6 +33,8 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algun
 
 #### Esdeveniments
 
+- 29/01 [BBO Meetup](https://www.meetup.com/bitcoin-barcelona/events/312842233/): [BitMaker](https://x.com/BitMaker_) de [Bitronics](https://bitronics.store/) presenta "Minería de Bitcoin en 2026: Innovación y hardware doméstico".
+
 #### Notícies
 
 #### Llançaments
