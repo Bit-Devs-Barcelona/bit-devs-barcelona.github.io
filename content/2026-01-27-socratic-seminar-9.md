@@ -28,6 +28,7 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algun
 - [Frigate: un servidor d'Electrum experimental que està provant l'escaneig per Silent Payments amb claus efímeres dels clients.](https://github.com/sparrowwallet/frigate) 
 - [Bitcoin Core: Bug en la migració de wallets.](https://x.com/bitcoincoreorg/status/2008284092983369886)
 - [Es llença Polar v4.0.0 🚀](https://x.com/lightningpolar/status/2008595645628903531?s=20) on ara pots connectar agents d'IA per controlar els nodes del teu entorn i pots importar simulacions automàtiques de pagaments i activitat a la Lightning Network integrant [sim-ln](https://github.com/bitcoin-dev-project/sim-ln).
+- [Senyalament i activació del BIP110](https://x.com/CunyRenaud/status/2013212670858531015)
 
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
