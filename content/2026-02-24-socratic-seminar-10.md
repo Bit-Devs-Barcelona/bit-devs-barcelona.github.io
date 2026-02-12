@@ -31,6 +31,8 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algun
 
 #### Esdeveniments
 
+- 04/03 [BBO Meetup](https://www.meetup.com/bitcoin-barcelona/events/313322562/): Minería Urbana: El repte d'usar equips industrials a casa.
+
 #### Notícies
 
 #### Llançaments
