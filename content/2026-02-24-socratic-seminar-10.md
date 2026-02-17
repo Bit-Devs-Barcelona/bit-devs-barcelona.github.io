@@ -20,10 +20,11 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algun
 ### Recordatoris
 - No es faran fotografies ni vídeos de les cares dels participants sense el seu consentiment.
 - Proposa temes pel Seminari Socràtic! [Pots obrir una issue al repo de GitHub](https://github.com/Bit-Devs-Barcelona/bit-devs-barcelona.github.io/issues) proposant un tema per parlar. [On trobar temes?](/about/find-topics/)
+- Si us plau registreu l'assistència al seguent link: https://luma.com/ac6up8d5
 
 ### Temes
 
-- TBH
+- S'anunciaran en breu
 
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
