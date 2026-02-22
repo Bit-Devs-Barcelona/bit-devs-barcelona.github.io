@@ -24,7 +24,10 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algun
 
 ### Temes
 
-- S'anunciaran en breu
+- [Bitcoiner Lab implementa tapscript](https://github.com/bitcoinerlab/descriptors/pull/54)
+- [Com Rewind Bitcoin pot utilitzar les TRUC transactions i P2A per millorar l'eficiència i no fallar en el càlcul de fees](https://bitcoinerlab.com/guides/p2a)
+- [Thunderden](https://github.com/bitcoinerlab/thunderden) un nou dispositiu de firma per a x88 - Nota: El repositori està en ocult de moment.
+- [Localhost Research torna a aixecar la Fibre Network](https://lclhost.org/blog/fibre-resurrected/) que portava apagada des-de 2017. [Web de Fiber](https://bitcoinfibre.org/).
 
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
