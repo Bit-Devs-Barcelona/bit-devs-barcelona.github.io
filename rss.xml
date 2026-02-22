@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>BitDevs Barcelona</title>
+      <link>https://bitdevsbarcelona.org</link>
+      <description>BitDevs Barcelona és una comunitat a l&#x27;àrea de Barcelona (Catalunya) per aquells interessats en la investigació i el desenvolupament de Bitcoin i protocols relacionats.</description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://bitdevsbarcelona.org/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Tue, 24 Feb 2026 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Seminari Socràtic #10</title>
+          <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://bitdevsbarcelona.org/socratic-seminar-10/</link>
+          <guid>https://bitdevsbarcelona.org/socratic-seminar-10/</guid>
+          <description xml:base="https://bitdevsbarcelona.org/socratic-seminar-10/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;18:00h Presentacions&lt;br &#x2F;&gt;
+18:15h Seminari Socràtic on es revisaran múltiples temes relacionats amb Bitcoin&lt;br &#x2F;&gt;
+20:00h Tancament&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;ubicacio&quot;&gt;Ubicació&lt;&#x2F;h3&gt;
+&lt;p&gt;Escola d&#x27;Enginyeria de la Universitat Autònoma de Barcelona. &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;maps.app.goo.gl&#x2F;a6EQgpF9yjr68nhV9&quot;&gt;Google Maps&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Aula Shannon - Agafeu l&#x27;ascensor a l&#x27;entrada fins a la 2a planta. Sortint de l&#x27;ascensor a l&#x27;esquerra, l&#x27;aula Shannon queda a l&#x27;esquerra del passadís.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;anuncis&quot;&gt;Anuncis&lt;&#x2F;h3&gt;
+&lt;p&gt;Estem molt contents de poder presentar el nostre novè &lt;a href=&quot;&#x2F;about&quot;&gt;Seminari Socràtic&lt;&#x2F;a&gt;!&lt;br &#x2F;&gt;
+Agraiments a &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.libreriadesatoshi.com&#x2F;b4os&quot;&gt;B4OS&lt;&#x2F;a&gt; per ajudar amb algunes despeses del projecte i a la UAB per l&#x27;espai.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;recordatoris&quot;&gt;Recordatoris&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No es faran fotografies ni vídeos de les cares dels participants sense el seu consentiment.&lt;&#x2F;li&gt;
+&lt;li&gt;Proposa temes pel Seminari Socràtic! &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Bit-Devs-Barcelona&#x2F;bit-devs-barcelona.github.io&#x2F;issues&quot;&gt;Pots obrir una issue al repo de GitHub&lt;&#x2F;a&gt; proposant un tema per parlar. &lt;a href=&quot;&#x2F;about&#x2F;find-topics&#x2F;&quot;&gt;On trobar temes?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Si us plau registreu l&#x27;assistència al seguent link: &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;luma.com&#x2F;ac6up8d5&quot;&gt;https:&#x2F;&#x2F;luma.com&#x2F;ac6up8d5&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;temes&quot;&gt;Temes&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoinerlab&#x2F;descriptors&#x2F;pull&#x2F;54&quot;&gt;Bitcoiner Lab implementa tapscript&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoinerlab.com&#x2F;guides&#x2F;p2a&quot;&gt;Com Rewind Bitcoin pot utilitzar les TRUC transactions i P2A per millorar l&#x27;eficiència i no fallar en el càlcul de fees&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoinerlab&#x2F;thunderden&quot;&gt;Thunderden&lt;&#x2F;a&gt; un nou dispositiu de firma per a x88 - Nota: El repositori està en ocult de moment.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;lclhost.org&#x2F;blog&#x2F;fibre-resurrected&#x2F;&quot;&gt;Localhost Research torna a aixecar la Fibre Network&lt;&#x2F;a&gt; que portava apagada des-de 2017. &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoinfibre.org&#x2F;&quot;&gt;Web de Fibre&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Merge del &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bips.dev&#x2F;360&#x2F;&quot;&gt;BIP360&lt;&#x2F;a&gt; al repositori de BIPs.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;estadistiques-de-la-xarxa&quot;&gt;Estadistiques de la Xarxa&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;esdeveniments&quot;&gt;Esdeveniments&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;04&#x2F;03 &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;bitcoin-barcelona&#x2F;events&#x2F;313322562&#x2F;&quot;&gt;BBO Meetup&lt;&#x2F;a&gt;: Minería Urbana: El repte d&#x27;usar equips industrials a casa.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;noticies&quot;&gt;Notícies&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;llancaments&quot;&gt;Llançaments&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;&quot;&gt;...&lt;&#x2F;h4&gt;
+</description>
+      </item>
+      <item>
+          <title>Seminari Socràtic #9</title>
+          <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://bitdevsbarcelona.org/socratic-seminar-9/</link>
+          <guid>https://bitdevsbarcelona.org/socratic-seminar-9/</guid>
+          <description xml:base="https://bitdevsbarcelona.org/socratic-seminar-9/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;18:00h Presentacions&lt;br &#x2F;&gt;
+18:15h Seminari Socràtic on es revisaran múltiples temes relacionats amb Bitcoin&lt;br &#x2F;&gt;
+20:00h Tancament&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;ubicacio&quot;&gt;Ubicació&lt;&#x2F;h3&gt;
+&lt;p&gt;Escola d&#x27;Enginyeria de la Universitat Autònoma de Barcelona. &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;maps.app.goo.gl&#x2F;a6EQgpF9yjr68nhV9&quot;&gt;Google Maps&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+Aula Shannon - Agafeu l&#x27;ascensor a l&#x27;entrada fins a la 2a planta. Sortint de l&#x27;ascensor a l&#x27;esquerra, l&#x27;aula Shannon queda a l&#x27;esquerra del passadís.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;anuncis&quot;&gt;Anuncis&lt;&#x2F;h3&gt;
+&lt;p&gt;Estem molt contents de poder presentar el nostre novè &lt;a href=&quot;&#x2F;about&quot;&gt;Seminari Socràtic&lt;&#x2F;a&gt;!&lt;br &#x2F;&gt;
+Agraiments a &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.libreriadesatoshi.com&#x2F;b4os&quot;&gt;B4OS&lt;&#x2F;a&gt; per ajudar amb algunes despeses del projecte i a la UAB per l&#x27;espai.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;recordatoris&quot;&gt;Recordatoris&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No es faran fotografies ni vídeos de les cares dels participants sense el seu consentiment.&lt;&#x2F;li&gt;
+&lt;li&gt;Proposa temes pel Seminari Socràtic! &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Bit-Devs-Barcelona&#x2F;bit-devs-barcelona.github.io&#x2F;issues&quot;&gt;Pots obrir una issue al repo de GitHub&lt;&#x2F;a&gt; proposant un tema per parlar. &lt;a href=&quot;&#x2F;about&#x2F;find-topics&#x2F;&quot;&gt;On trobar temes?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;temes&quot;&gt;Temes&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bnoc.xyz&#x2F;t&#x2F;bitcoin-core-versions-run-by-mining-pools&#x2F;57&quot;&gt;Quines versions de Bitcoin Core corren els mining pools.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;CunyRenaud&#x2F;status&#x2F;2013212670858531015&quot;&gt;Senyalament i activació del BIP110&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sparrowwallet&#x2F;frigate&quot;&gt;Frigate: un servidor d&#x27;Electrum experimental que està provant l&#x27;escaneig per Silent Payments amb claus efímeres dels clients.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;lightningpolar&#x2F;status&#x2F;2008595645628903531?s=20&quot;&gt;Es llença Polar v4.0.0 🚀&lt;&#x2F;a&gt; on ara pots connectar agents d&#x27;IA per controlar els nodes del teu entorn i pots importar simulacions automàtiques de pagaments i activitat a la Lightning Network integrant &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-dev-project&#x2F;sim-ln&quot;&gt;sim-ln&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;29415&quot;&gt;Bitcoin Core: Retransmissió de transaccions només via connexions de curta durada I2P i Tor.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;bitcoincoreorg&#x2F;status&#x2F;2008284092983369886&quot;&gt;Bitcoin Core: Bug en la migració de wallets.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;estadistiques-de-la-xarxa&quot;&gt;Estadistiques de la Xarxa&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;esdeveniments&quot;&gt;Esdeveniments&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;29&#x2F;01 &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;bitcoin-barcelona&#x2F;events&#x2F;312842233&#x2F;&quot;&gt;BBO Meetup&lt;&#x2F;a&gt;: &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;BitMaker_&quot;&gt;BitMaker&lt;&#x2F;a&gt; de &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitronics.store&#x2F;&quot;&gt;Bitronics&lt;&#x2F;a&gt; presenta &quot;Minería de Bitcoin en 2026: Innovación y hardware doméstico&quot;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;noticies&quot;&gt;Notícies&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;llancaments&quot;&gt;Llançaments&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;&quot;&gt;...&lt;&#x2F;h4&gt;
+</description>
+      </item>
+      <item>
+          <title>Seminari Socràtic #8</title>
+          <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://bitdevsbarcelona.org/socratic-seminar-8/</link>
+          <guid>https://bitdevsbarcelona.org/socratic-seminar-8/</guid>
+          <description xml:base="https://bitdevsbarcelona.org/socratic-seminar-8/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;18:00h Presentacions&lt;br &#x2F;&gt;
+19:00h Seminari Socràtic on es revisaran múltiples temes relacionats amb Bitcoin&lt;br &#x2F;&gt;
+20:00h Tancament&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;ubicacio&quot;&gt;Ubicació&lt;&#x2F;h3&gt;
+&lt;p&gt;Escola d&#x27;Enginyeria de la Universitat Autònoma de Barcelona.&lt;br &#x2F;&gt;
+La localització exacta s&#x27;enviarà per missatge directe als assistents.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;anuncis&quot;&gt;Anuncis&lt;&#x2F;h3&gt;
+&lt;p&gt;Estem molt contents de poder presentar el nostre vuitè &lt;a href=&quot;&#x2F;about&quot;&gt;Seminari Socràtic&lt;&#x2F;a&gt;!&lt;br &#x2F;&gt;
+Agraiments a &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.libreriadesatoshi.com&#x2F;b4os&quot;&gt;B4OS&lt;&#x2F;a&gt; per ajudar amb algunes despeses del projecte i a la UAB per l&#x27;espai.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;recordatoris&quot;&gt;Recordatoris&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No es faran fotografies ni vídeos de les cares dels participants sense el seu consentiment.&lt;&#x2F;li&gt;
+&lt;li&gt;Proposa temes pel Seminari Socràtic! &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Bit-Devs-Barcelona&#x2F;bit-devs-barcelona.github.io&#x2F;issues&quot;&gt;Pots obrir una issue al repo de GitHub&lt;&#x2F;a&gt; proposant un tema per parlar. &lt;a href=&quot;&#x2F;about&#x2F;find-topics&#x2F;&quot;&gt;On trobar temes?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;temes&quot;&gt;Temes&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;rawbit.io&#x2F;&quot;&gt;RawBit&lt;&#x2F;a&gt; és una nova eina per a la creació de transaccions a partir d&#x27;una interfície gràfica. La construcció de transaccions es fa fent &lt;em&gt;drag-and-drops&lt;&#x2F;em&gt; de les diverses components. Permet construccions complexes i l&#x27;execució d&#x27;scripts (veient l&#x27;evolució de la pila a cada pas).&lt;&#x2F;li&gt;
+&lt;li&gt;The Future of Our BitDevs&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;estadistiques-de-la-xarxa&quot;&gt;Estadistiques de la Xarxa&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;esdeveniments&quot;&gt;Esdeveniments&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;noticies&quot;&gt;Notícies&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;llancaments&quot;&gt;Llançaments&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;&quot;&gt;...&lt;&#x2F;h4&gt;
+</description>
+      </item>
+      <item>
+          <title>Seminari Socràtic #7</title>
+          <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://bitdevsbarcelona.org/socratic-seminar-7/</link>
+          <guid>https://bitdevsbarcelona.org/socratic-seminar-7/</guid>
+          <description xml:base="https://bitdevsbarcelona.org/socratic-seminar-7/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;18:00h Presentacions&lt;br &#x2F;&gt;
+19:00h Seminari Socràtic on es revisaran múltiples temes relacionats amb Bitcoin&lt;br &#x2F;&gt;
+20:00h Tancament&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;ubicacio&quot;&gt;Ubicació&lt;&#x2F;h3&gt;
+&lt;p&gt;Escola d&#x27;Enginyeria de la Universitat Autònoma de Barcelona.&lt;br &#x2F;&gt;
+La localització exacta s&#x27;enviarà per missatge directe als assistents.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;anuncis&quot;&gt;Anuncis&lt;&#x2F;h3&gt;
+&lt;p&gt;Estem molt contents de poder presentar el nostre setè &lt;a href=&quot;&#x2F;about&quot;&gt;Seminari Socràtic&lt;&#x2F;a&gt;!&lt;br &#x2F;&gt;
+Agraiments a &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.libreriadesatoshi.com&#x2F;b4os&quot;&gt;B4OS&lt;&#x2F;a&gt; per ajudar amb algunes despeses del projecte i a la UAB per l&#x27;espai.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;recordatoris&quot;&gt;Recordatoris&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No es faran fotografies ni vídeos de les cares dels participants sense el seu consentiment.&lt;&#x2F;li&gt;
+&lt;li&gt;Proposa temes pel Seminari Socràtic! &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Bit-Devs-Barcelona&#x2F;bit-devs-barcelona.github.io&#x2F;issues&quot;&gt;Pots obrir una issue al repo de GitHub&lt;&#x2F;a&gt; proposant un tema per parlar. &lt;a href=&quot;&#x2F;about&#x2F;find-topics&#x2F;&quot;&gt;On trobar temes?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;temes&quot;&gt;Temes&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;determining-blocktemplate-fee-increase-using-fee-rate-diagram&#x2F;2052&quot;&gt;Determining BlockTemplate Fee Increase Using Fee Rate Diagram&lt;&#x2F;a&gt; - Actualment, per determinar si un block template és millor que l&#x27;actual, els miners criden constantment a la crida RPC getblocktemplate. Això pot fer que es construeixin blocs molt semblants gastant poder de còmput. Aquí, amb l&#x27;ajuda de cluster mempool, es proposa una manera de saber si el pròxim block template serà millor que l&#x27;actual.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;RubenSomsen&#x2F;a61a37d14182ccd78760e477c78133cd&quot;&gt;SwiftSync&lt;&#x2F;a&gt; és una nova proposta per millorar el temps de sincronització d&#x27;un node a l&#x27;UTXO set actual.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;b10c.me&#x2F;projects&#x2F;024-peer-observer&#x2F;&quot;&gt;Peer-observer&lt;&#x2F;a&gt; és una nova eina per supervisar la xarxa P2P de Bitcoin i detectar atacs i anomalies. Més enllà de l&#x27;eina, el seu creador manté una xarxa de nodes a la mainnet. Les seves IPs no són conegudes (per evitar que possibles atacants en manipulin el tràfic), excepte un parell de nodes de &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;demo.peer.observer&#x2F;&quot;&gt;demo&lt;&#x2F;a&gt;. Entre d&#x27;altres, l&#x27;eina disposa d&#x27;un &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;demo.peer.observer&#x2F;forks&#x2F;&quot;&gt;monitor de forks&lt;&#x2F;a&gt; i visualitzadors de l&#x27;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;demo.peer.observer&#x2F;addrman&#x2F;?url=hal&quot;&gt;addrman&lt;&#x2F;a&gt; i &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;demo.peer.observer&#x2F;websocket&#x2F;p2p-circle.html&quot;&gt;missatges de xarxa&lt;&#x2F;a&gt;. El creador té altres eines com &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mainnet.observer&#x2F;&quot;&gt;Mainnet Observer&lt;&#x2F;a&gt; on es poden veure estadístiques generals de la xarxa.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;estadistiques-de-la-xarxa&quot;&gt;Estadistiques de la Xarxa&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;esdeveniments&quot;&gt;Esdeveniments&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;noticies&quot;&gt;Notícies&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;llancaments&quot;&gt;Llançaments&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;&quot;&gt;...&lt;&#x2F;h4&gt;
+</description>
+      </item>
+      <item>
+          <title>Seminari Socràtic #6</title>
+          <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://bitdevsbarcelona.org/socratic-seminar-6/</link>
+          <guid>https://bitdevsbarcelona.org/socratic-seminar-6/</guid>
+          <description xml:base="https://bitdevsbarcelona.org/socratic-seminar-6/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;18:00h Presentacions&lt;br &#x2F;&gt;
+19:00h Seminari Socràtic on es revisaran múltiples temes relacionats amb Bitcoin&lt;br &#x2F;&gt;
+20:00h Tancament&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;ubicacio&quot;&gt;Ubicació&lt;&#x2F;h3&gt;
+&lt;p&gt;Escola d&#x27;Enginyeria de la Universitat Autònoma de Barcelona.&lt;br &#x2F;&gt;
+La localització exacta s&#x27;enviarà per missatge directe als assistents.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;anuncis&quot;&gt;Anuncis&lt;&#x2F;h3&gt;
+&lt;p&gt;Estem molt contents de poder presentar el nostre sisè &lt;a href=&quot;&#x2F;about&quot;&gt;Seminari Socràtic&lt;&#x2F;a&gt;!&lt;br &#x2F;&gt;
+Agraiments a &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.libreriadesatoshi.com&#x2F;b4os&quot;&gt;B4OS&lt;&#x2F;a&gt; per ajudar amb algunes despeses del projecte i a la UAB per l&#x27;espai.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;recordatoris&quot;&gt;Recordatoris&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No es faran fotografies ni vídeos de les cares dels participants sense el seu consentiment.&lt;&#x2F;li&gt;
+&lt;li&gt;Proposa temes pel Seminari Socràtic! &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Bit-Devs-Barcelona&#x2F;bit-devs-barcelona.github.io&#x2F;issues&quot;&gt;Pots obrir una issue al repo de GitHub&lt;&#x2F;a&gt; proposant un tema per parlar. &lt;a href=&quot;&#x2F;about&#x2F;find-topics&#x2F;&quot;&gt;On trobar temes?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;temes&quot;&gt;Temes&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;stats-on-compact-block-reconstructions&#x2F;1052&#x2F;34&quot;&gt;Compact Blocks Prefill&lt;&#x2F;a&gt; - David Gumberg proposa millorar la velocitat de reconstrucció de &quot;compact blocks&quot; pre-omplint els blocs amb algunes transaccions que pensem que els nostres peers no coneixen, evitant així algunes rondes de comunicació a l&#x27;hora de reconstruir els blocs i millorant la velocitat de construcció dels blocs.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;sharing-block-templates&#x2F;1906&quot;&gt;Sharing block templates&lt;&#x2F;a&gt; - AJTowns proposa compartir templates de blocs entre nodes per tal d&#x27;advertir als nostres peers sobre què pensem que serà minat en el pròxim block. La proposta ha rebut el número de &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;1937&quot;&gt;BIP 153&lt;&#x2F;a&gt; i s&#x27;ha obert un &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;33191&quot;&gt;PR#33191&lt;&#x2F;a&gt; a Bitcoin Core per implementar-ho.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;blob&#x2F;4500b0ad25e3e61c58b26d563f1dcc232d21d7a8&#x2F;bip-XXXX.md&quot;&gt;OP_TWEAKADD&lt;&#x2F;a&gt; - Jeremy Rubin proposes a new opcode that mirrors the Taproot tweak used by BIP340 signers. It takes an x-only public key and a 32-byte integer &lt;code&gt;h&lt;&#x2F;code&gt; on the stack and pushes the x-only public key corresponding to &lt;code&gt;P + h*G&lt;&#x2F;code&gt;, where &lt;code&gt;P&lt;&#x2F;code&gt; is the lifted point for the input x-coordinate and &lt;code&gt;G&lt;&#x2F;code&gt; is the secp256k1 generator.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;qubic.org&#x2F;pr&#x2F;qubic-overtakes-monero-s-hash-rate-in-live-51-takeover-demo&quot;&gt;Gran reorg a Monero&lt;&#x2F;a&gt; - A mitjans d&#x27;Agost, la pool de Qubic de Monero, &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;coinmetrics.substack.com&#x2F;p&#x2F;state-of-the-network-issue-326&quot;&gt;va aconseguir temporalment més del 50%&lt;&#x2F;a&gt; del seu hashrate i va provocar una reorganització de sis blocs. Aquest incident deixa en evidenciar els riscos dels mecanismes Proof-of-Work (PoW) en xarxes més petites.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;murchandamus&#x2F;status&#x2F;1971647746299121773&quot;&gt;Probabilitat d&#x27;acceptació de transaccions&lt;&#x2F;a&gt; entre peers basada en el recompte de peers i l&#x27;adopció de mempool policies.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;estadistiques-de-la-xarxa&quot;&gt;Estadistiques de la Xarxa&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;esdeveniments&quot;&gt;Esdeveniments&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;noticies&quot;&gt;Notícies&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;llancaments&quot;&gt;Llançaments&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;&quot;&gt;...&lt;&#x2F;h4&gt;
+</description>
+      </item>
+      <item>
+          <title>Seminari Socràtic #5</title>
+          <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://bitdevsbarcelona.org/socratic-seminar-5/</link>
+          <guid>https://bitdevsbarcelona.org/socratic-seminar-5/</guid>
+          <description xml:base="https://bitdevsbarcelona.org/socratic-seminar-5/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;18:00h Presentacions&lt;br &#x2F;&gt;
+19:00h Seminari Socràtic on es revisaran múltiples temes relacionats amb Bitcoin&lt;br &#x2F;&gt;
+20:00h Tancament&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;ubicacio&quot;&gt;Ubicació&lt;&#x2F;h3&gt;
+&lt;p&gt;Escola d&#x27;Enginyeria de la Universitat Autònoma de Barcelona.&lt;br &#x2F;&gt;
+La localització exacta s&#x27;enviarà per missatge directe als assistents.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;anuncis&quot;&gt;Anuncis&lt;&#x2F;h3&gt;
+&lt;p&gt;Estem molt contents de poder presentar el nostre cinquè &lt;a href=&quot;&#x2F;about&quot;&gt;Seminari Socràtic&lt;&#x2F;a&gt;!&lt;br &#x2F;&gt;
+Agraiments a &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.libreriadesatoshi.com&#x2F;b4os&quot;&gt;B4OS&lt;&#x2F;a&gt; per ajudar amb algunes despeses del projecte i a la UAB per l&#x27;espai.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;recordatoris&quot;&gt;Recordatoris&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No es faran fotografies ni vídeos de les cares dels participants sense el seu consentiment.&lt;&#x2F;li&gt;
+&lt;li&gt;Proposa temes pel Seminari Socràtic! &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Bit-Devs-Barcelona&#x2F;bit-devs-barcelona.github.io&#x2F;issues&quot;&gt;Pots obrir una issue al repo de GitHub&lt;&#x2F;a&gt; proposant un tema per parlar. &lt;a href=&quot;&#x2F;about&#x2F;find-topics&#x2F;&quot;&gt;On trobar temes?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;temes&quot;&gt;Temes&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;CTV-CSFS - Un grup de desenvolupadors han firmat &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ctv-csfs.com&#x2F;&quot;&gt;una carta&lt;&#x2F;a&gt; demanant la revisió i activació dels soft-forks CTV i CSFS (BIPS &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;blob&#x2F;master&#x2F;bip-0119.mediawiki&quot;&gt;119&lt;&#x2F;a&gt; i &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;blob&#x2F;master&#x2F;bip-0348.md&quot;&gt;348&lt;&#x2F;a&gt; respectivament).&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;dust-expiry-clean-the-utxo-set-from-spam&#x2F;1707&quot;&gt;Dust Expiry: Clean the UTXO set from spam&lt;&#x2F;a&gt; -- RobinLinus proposa un soft-fork per eliminar el dust que no sera gastat del UTXO set.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;emulating-op-rand&#x2F;1409&quot;&gt;Emulating OP_RAND&lt;&#x2F;a&gt; -- El llenguatge d&#x27;scripting the Bitcoin no permet (de manera directa) introduir aleatorietat en les condicions de despesa. Oleksandr Kurbatov proposa un protocol interactiu entre dues parts que permet incorporar aquesta aleatorietat de forma controlada, emulant el que ell n&#x27;anomena l&#x27;OP_RAND opcode. &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;podcast&#x2F;2025&#x2F;02&#x2F;11&#x2F;#emulating-op-rand&quot;&gt;OPTECH&lt;&#x2F;a&gt;, &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2501.16451&quot;&gt;Format Paper&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;estadistiques-de-la-xarxa&quot;&gt;Estadistiques de la Xarxa&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;esdeveniments&quot;&gt;Esdeveniments&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;noticies&quot;&gt;Notícies&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;llancaments&quot;&gt;Llançaments&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;&quot;&gt;...&lt;&#x2F;h4&gt;
+</description>
+      </item>
+      <item>
+          <title>Seminari Socràtic #4</title>
+          <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://bitdevsbarcelona.org/socratic-seminar-4/</link>
+          <guid>https://bitdevsbarcelona.org/socratic-seminar-4/</guid>
+          <description xml:base="https://bitdevsbarcelona.org/socratic-seminar-4/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;18:00h Presentacions&lt;br &#x2F;&gt;
+19:00h Seminari Socràtic on es revisaran múltiples temes relacionats amb Bitcoin&lt;br &#x2F;&gt;
+20:00h Tancament&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;ubicacio&quot;&gt;Ubicació&lt;&#x2F;h3&gt;
+&lt;p&gt;Escola d&#x27;Enginyeria de la Universitat Autònoma de Barcelona.&lt;br &#x2F;&gt;
+La localització exacta s&#x27;enviarà per missatge directe als assistents.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;anuncis&quot;&gt;Anuncis&lt;&#x2F;h3&gt;
+&lt;p&gt;Estem molt contents de poder presentar el nostre quart &lt;a href=&quot;&#x2F;about&quot;&gt;Seminari Socràtic&lt;&#x2F;a&gt;!&lt;br &#x2F;&gt;
+Agraiments a &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.libreriadesatoshi.com&#x2F;b4os&quot;&gt;B4OS&lt;&#x2F;a&gt; per ajudar amb algunes despeses del projecte i a la UAB per l&#x27;espai.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;recordatoris&quot;&gt;Recordatoris&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No es faran fotografies ni vídeos de les cares dels participants sense el seu consentiment.&lt;&#x2F;li&gt;
+&lt;li&gt;Proposa temes pel Seminari Socràtic! &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Bit-Devs-Barcelona&#x2F;bit-devs-barcelona.github.io&#x2F;issues&quot;&gt;Pots obrir una issue al repo de GitHub&lt;&#x2F;a&gt; proposant un tema per parlar. &lt;a href=&quot;&#x2F;about&#x2F;find-topics&#x2F;&quot;&gt;On trobar temes?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;temes&quot;&gt;Temes&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;1905.10518&quot;&gt;Erlay&lt;&#x2F;a&gt; és un protocol eficient en amplada de banda per a la retransmissió de transaccions a la xarxa P2P de Bitcoin, construït sobre &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;blob&#x2F;master&#x2F;bip-0330.mediawiki&quot;&gt;BIP330&lt;&#x2F;a&gt;, que permet una reconciliació eficient dels anuncis de transaccions. Consulta el &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;issues&#x2F;30249&quot;&gt;seguiment del projecte&lt;&#x2F;a&gt;. (Format presentació per &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;srgi.me&#x2F;&quot;&gt;Sergi Delgado&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Please god not OP_RETURN filters:&lt;&#x2F;strong&gt; Per què no volem una discrepància entre el que hi ha la mempool i el que realment entra en el següent bloc? Com afecta això als incentius miners? Per què fa més difícil l&#x27;estimació de taxes? Com afecta a la Lightning Network? És la política de mempool personalitzable per l&#x27;usuari un atzucac? &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;vimeo.com&#x2F;704956163&quot;&gt;Xerrada de la Gloria Zhao sobre les polítiques de la mempool&lt;&#x2F;a&gt;. Més context a la &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Bit-Devs-Barcelona&#x2F;bit-devs-barcelona.github.io&#x2F;issues&#x2F;13&quot;&gt;Issue&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Costa molt calcular un hash?&lt;&#x2F;strong&gt; Tots nosaltres, en el primer moment que vam entendre com es generaven les claus de Bitcoin i com es gastaven els bitcoins, hem pensat que seria una bona idea generar claus aleatòries i mirar si l&#x27;adreça corresponent bloqueja algun UTXO. Per fer-ho, cal generar la clau privada, calcular la pública i fer el hash (assumint que l&#x27;UTXO està en una P2PKH o P2WPKH). Aquesta última acció (fer el hash) s&#x27;evita si l&#x27;UTXO està en una P2PK o coneixes la clau pública que bloqueja l&#x27;UTXO. Però, aquest últim pas de fer el hash, realment retarda molt la feina quan estàs provant amb força bruta moltes claus? Doncs sembla que sí, a jutjar pels challenges que s&#x27;han resolt i els que no d&#x27;aquest &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;privatekeys.pw&#x2F;puzzles&#x2F;bitcoin-puzzle-tx&quot;&gt;multi-challenge&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;topics&#x2F;cluster-mempool&#x2F;&quot;&gt;Cluster mempool&lt;&#x2F;a&gt; és una proposta per millorar els algorismes de mining i eviction de la mempool. Links d&#x27;interès: &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;issues&#x2F;30289&quot;&gt;Tracking issue&lt;&#x2F;a&gt; - &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;cluster-mempool-definitions-theory&#x2F;202&quot;&gt;Cluster mempool definitions &amp;amp; theory&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;estadistiques-de-la-xarxa&quot;&gt;Estadistiques de la Xarxa&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;esdeveniments&quot;&gt;Esdeveniments&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;noticies&quot;&gt;Notícies&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;llancaments&quot;&gt;Llançaments&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;&quot;&gt;...&lt;&#x2F;h4&gt;
+</description>
+      </item>
+      <item>
+          <title>Seminari Socràtic #3</title>
+          <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://bitdevsbarcelona.org/socratic-seminar-3/</link>
+          <guid>https://bitdevsbarcelona.org/socratic-seminar-3/</guid>
+          <description xml:base="https://bitdevsbarcelona.org/socratic-seminar-3/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;18:00h Presentacions&lt;br &#x2F;&gt;
+19:00h Seminari Socràtic on es revisaran múltiples temes relacionats amb Bitcoin&lt;br &#x2F;&gt;
+20:00h Tancament&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;ubicacio&quot;&gt;Ubicació&lt;&#x2F;h3&gt;
+&lt;p&gt;Escola d&#x27;Enginyeria de la Universitat Autònoma de Barcelona.&lt;br &#x2F;&gt;
+La localització exacta s&#x27;enviarà per missatge directe als assistents.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;anuncis&quot;&gt;Anuncis&lt;&#x2F;h3&gt;
+&lt;p&gt;Estem molt contents de poder presentar el nostre tercer &lt;a href=&quot;&#x2F;about&quot;&gt;Seminari Socràtic&lt;&#x2F;a&gt;!&lt;br &#x2F;&gt;
+Agraiments a &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.libreriadesatoshi.com&#x2F;b4os&quot;&gt;B4OS&lt;&#x2F;a&gt; per ajudar amb algunes despeses del projecte i a la UAB per l&#x27;espai.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;recordatoris&quot;&gt;Recordatoris&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No es faran fotografies ni vídeos de les cares dels participants sense el seu consentiment.&lt;&#x2F;li&gt;
+&lt;li&gt;Proposa temes pel Seminari Socràtic! &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Bit-Devs-Barcelona&#x2F;bit-devs-barcelona.github.io&#x2F;issues&quot;&gt;Pots obrir una issue al repo de GitHub&lt;&#x2F;a&gt; proposant un tema per parlar. &lt;a href=&quot;&#x2F;about&#x2F;find-topics&#x2F;&quot;&gt;On trobar temes?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;temes&quot;&gt;Temes&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;blog.crema.sh&#x2F;PurrSettle&quot;&gt;PurrSettle&lt;&#x2F;a&gt; és un &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2017&#x2F;394.pdf&quot;&gt;mecanisme de prevenció de doble despesa per a transaccions amb zero confirmacions&lt;&#x2F;a&gt; basat en la vulnerabilitat de la reutilització del &lt;em&gt;nonce&lt;&#x2F;em&gt; en signatures. El mecanisme es podria desplegar si s&#x27;activés &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;topics&#x2F;op_cat&#x2F;&quot;&gt;OP_CAT&lt;&#x2F;a&gt;. Ja hi ha una &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;crema-labs&#x2F;PurrSettle&#x2F;&quot;&gt;implementació en rust&lt;&#x2F;a&gt; disponible i alguna &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;catnet-mempool.btcwild.life&#x2F;tx&#x2F;4bf1ef90ca0575c8aa951282a157fbe646b890829e1b54e7df16e3aafe86a0f5&quot;&gt;transacció&lt;&#x2F;a&gt; a la signet d&#x27;StarkWare que l&#x27;incorpora.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bboerst&#x2F;stratum-work&quot;&gt;Bboerst&lt;&#x2F;a&gt; presenta &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;stratum.work&#x2F;&quot;&gt;stratum work&lt;&#x2F;a&gt;. Usant tècniques d&#x27;anàlisi de tràfic de Stratum v1 es destapen relacions entre algunes de les pools de mineria.&lt;&#x2F;li&gt;
+&lt;li&gt;Antoine Poinsot i Matt Corallo presenten un esborrany del &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;1800&quot;&gt;BIP 54 - Consensus Cleanup&lt;&#x2F;a&gt;. Un Soft-Fork que pretén solucionar alguns problemes i bugs que conté actualment el protocol de Bitcoin.&lt;&#x2F;li&gt;
+&lt;li&gt;Repàs general dels &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoin.softforks.org&#x2F;&quot;&gt;soft forks&lt;&#x2F;a&gt; proposats a Bitcoin actualment.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;estadistiques-de-la-xarxa&quot;&gt;Estadistiques de la Xarxa&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;esdeveniments&quot;&gt;Esdeveniments&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;noticies&quot;&gt;Notícies&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;llancaments&quot;&gt;Llançaments&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;&quot;&gt;...&lt;&#x2F;h4&gt;
+</description>
+      </item>
+      <item>
+          <title>Seminari Socràtic #2</title>
+          <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://bitdevsbarcelona.org/socratic-seminar-2/</link>
+          <guid>https://bitdevsbarcelona.org/socratic-seminar-2/</guid>
+          <description xml:base="https://bitdevsbarcelona.org/socratic-seminar-2/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;18:00h Presentacions&lt;br &#x2F;&gt;
+19:00h Seminari Socràtic on es revisaran múltiples temes relacionats amb Bitcoin&lt;br &#x2F;&gt;
+20:00h Tancament&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;ubicacio&quot;&gt;Ubicació&lt;&#x2F;h3&gt;
+&lt;p&gt;Escola d&#x27;Enginyeria de la Universitat Autònoma de Barcelona.&lt;br &#x2F;&gt;
+La localització exacta s&#x27;enviarà per missatge directe als assistents.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;anuncis&quot;&gt;Anuncis&lt;&#x2F;h3&gt;
+&lt;p&gt;Estem molt contents de poder presentar el nostre segon &lt;a href=&quot;&#x2F;about&quot;&gt;Seminari Socràtic&lt;&#x2F;a&gt;!&lt;br &#x2F;&gt;
+Agraiments a &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.libreriadesatoshi.com&#x2F;b4os&quot;&gt;B4OS&lt;&#x2F;a&gt; per ajudar amb algunes despeses del projecte i a la UAB per l&#x27;espai.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;recordatoris&quot;&gt;Recordatoris&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No es faran fotografies ni vídeos de les cares dels participants sense el seu consentiment.&lt;&#x2F;li&gt;
+&lt;li&gt;Proposa temes pel Seminari Socràtic! &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Bit-Devs-Barcelona&#x2F;bit-devs-barcelona.github.io&#x2F;issues&quot;&gt;Pots obrir una issue al repo de GitHub&lt;&#x2F;a&gt; proposant un tema per parlar. &lt;a href=&quot;&#x2F;about&#x2F;find-topics&#x2F;&quot;&gt;On trobar temes?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;temes&quot;&gt;Temes&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Protocols CSV (Client Side Validation), en particular, &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2025&#x2F;068.pdf&quot;&gt;Shielded CSV&lt;&#x2F;a&gt;, que pretén millorar tant la privadesa de les transaccions de Bitcoin com l&#x27;escalabilitat del sistema. &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=zpghEIWveJI&quot;&gt;Aquesta presentació&lt;&#x2F;a&gt; d&#x27;en Jonas Nick resumeix el protocol sense entrar en tots els detalls que s&#x27;expliquen a l&#x27;article.&lt;&#x2F;li&gt;
+&lt;li&gt;HardForks: Diferències entre soft forks, hard forks i chainsplits. Repassar els &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;en.bitcoin.it&#x2F;wiki&#x2F;Consensus_versions&quot;&gt;hard forks històrics&lt;&#x2F;a&gt; de Bitcoin, &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoindevphilosophy.com&#x2F;#whenshithitsthefan&quot;&gt;com es van dur a terme i per què&lt;&#x2F;a&gt;, etc. Discutir sobre possibles hard forks en el futur i debatre&#x27;n la viabilitat.&lt;&#x2F;li&gt;
+&lt;li&gt;Txs amb ID duplicats a la blockchain. Com per arreglar aquest problema es va introduir un potencial &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;blog.bitmex.com&#x2F;bitcoins-duplicate-transactions&#x2F;&quot;&gt;futur hard-fork&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;estadistiques-de-la-xarxa&quot;&gt;Estadistiques de la Xarxa&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;esdeveniments&quot;&gt;Esdeveniments&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;noticies&quot;&gt;Notícies&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;llancaments&quot;&gt;Llançaments&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;&quot;&gt;...&lt;&#x2F;h4&gt;
+</description>
+      </item>
+      <item>
+          <title>Seminari Socràtic #1</title>
+          <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://bitdevsbarcelona.org/socratic-seminar-1/</link>
+          <guid>https://bitdevsbarcelona.org/socratic-seminar-1/</guid>
+          <description xml:base="https://bitdevsbarcelona.org/socratic-seminar-1/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;18:00h Presentacions&lt;br &#x2F;&gt;
+19:00h Seminari Socràtic on es revisaran múltiples temes relacionats amb Bitcoin&lt;br &#x2F;&gt;
+20:00h Tancament&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;ubicacio&quot;&gt;Ubicació&lt;&#x2F;h3&gt;
+&lt;p&gt;Escola d&#x27;Enginyeria de la Universitat Autònoma de Barcelona.&lt;br &#x2F;&gt;
+La localització exacta s&#x27;enviarà per missatge directe als assistents.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;anuncis&quot;&gt;Anuncis&lt;&#x2F;h3&gt;
+&lt;p&gt;Estem molt contents de poder presentar el nostre primer &lt;a href=&quot;&#x2F;about&quot;&gt;Seminari Socràtic&lt;&#x2F;a&gt;!&lt;br &#x2F;&gt;
+Agraiments a &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.libreriadesatoshi.com&#x2F;b4os&quot;&gt;B4OS&lt;&#x2F;a&gt; per ajudar amb algunes despeses del projecte i a la UAB per l&#x27;espai.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;recordatoris&quot;&gt;Recordatoris&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No es faran fotografies ni vídeos de les cares dels participants sense el seu consentiment.&lt;&#x2F;li&gt;
+&lt;li&gt;Proposa temes pel Seminari Socràtic! &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Bit-Devs-Barcelona&#x2F;bit-devs-barcelona.github.io&#x2F;issues&quot;&gt;Pots obrir una issue al repo de GitHub&lt;&#x2F;a&gt; proposant un tema per parlar. &lt;a href=&quot;&#x2F;about&#x2F;find-topics&#x2F;&quot;&gt;On trobar temes?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;temes&quot;&gt;Temes&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;DATUM Protocol: Discutir el &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;OCEAN-xyz&#x2F;datum_gateway&quot;&gt;disseny&lt;&#x2F;a&gt;, funcionament i limitacions del protocol de mineria &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;ocean.xyz&#x2F;docs&#x2F;datum&quot;&gt;DATUM&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;SeedSigner en &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;sliv3r__&#x2F;status&#x2F;1891579131218767992&quot;&gt;Català&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Assume UTXO set - &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;issues&#x2F;29616&quot;&gt;GitHub&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;utxo.live&#x2F;oracle&#x2F;&quot;&gt;UTXO Oracle&lt;&#x2F;a&gt;: L&#x27;UTXO Oracle permet estimar el preu en dollars del Bitcoin només amb l&#x27;UTXO set. Aquesta eina fa temps que va sortir, però amb l&#x27;aparició de les runes va deixar de ser efectiva. Ara, l&#x27;autor l&#x27;ha modificat perquè torni a ser acurada en la predicció del preu.&lt;&#x2F;li&gt;
+&lt;li&gt;Community Backups de &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;rewindbitcoin.com&#x2F;community-backups&quot;&gt;Rewind Bitcoin&lt;&#x2F;a&gt; utilitzant la xarxa P2P de &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;docs.pears.com&#x2F;guides&#x2F;getting-started&quot;&gt;Pears&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;estadistiques-de-la-xarxa&quot;&gt;Estadistiques de la Xarxa&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;esdeveniments&quot;&gt;Esdeveniments&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;noticies&quot;&gt;Notícies&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;llancaments&quot;&gt;Llançaments&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;&quot;&gt;...&lt;&#x2F;h4&gt;
+</description>
+      </item>
+      <item>
+          <title>Seminari Socràtic #0</title>
+          <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://bitdevsbarcelona.org/socratic-seminar-0/</link>
+          <guid>https://bitdevsbarcelona.org/socratic-seminar-0/</guid>
+          <description xml:base="https://bitdevsbarcelona.org/socratic-seminar-0/">&lt;h3 id=&quot;agenda&quot;&gt;Agenda&lt;&#x2F;h3&gt;
+&lt;p&gt;18:30h Presentacions&lt;br &#x2F;&gt;
+19:00h Seminari Socràtic on es revisaran múltiples temes relacionats amb Bitcoin&lt;br &#x2F;&gt;
+20:00h Tancament&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;ubicacio&quot;&gt;Ubicació&lt;&#x2F;h3&gt;
+&lt;p&gt;Escola d&#x27;Enginyeria de la Universitat Autònoma de Barcelona.&lt;br &#x2F;&gt;
+La localització exacta s&#x27;enviarà per missatge directe als assistents.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;anuncis&quot;&gt;Anuncis&lt;&#x2F;h3&gt;
+&lt;p&gt;Estem molt contents de poder presentar el nostre zero ;) &lt;a href=&quot;&#x2F;about&quot;&gt;Seminari Socràtic&lt;&#x2F;a&gt;!&lt;br &#x2F;&gt;
+Agraiments a &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.libreriadesatoshi.com&#x2F;b4os&quot;&gt;B4OS&lt;&#x2F;a&gt; per ajudar amb algunes despeses del projecte i a la UAB per l&#x27;espai.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;recordatoris&quot;&gt;Recordatoris&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;No es faran fotografies ni vídeos de les cares dels participants sense el seu consentiment.&lt;&#x2F;li&gt;
+&lt;li&gt;Proposa temes pel Seminari Socràtic! &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Bit-Devs-Barcelona&#x2F;bit-devs-barcelona.github.io&#x2F;issues&quot;&gt;Pots obrir una issue al repo de GitHub&lt;&#x2F;a&gt; proposant un tema per parlar. &lt;a href=&quot;&#x2F;about&#x2F;find-topics&#x2F;&quot;&gt;On trobar temes?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;temes&quot;&gt;Temes&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Solucions PostQuantum. Des de &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;conduition.io&#x2F;cryptography&#x2F;quantum-hbs&#x2F;&quot;&gt;modificar la generació de claus&lt;&#x2F;a&gt; fins a l&#x27;ús de &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;8O857bRSVV8&quot;&gt;taproot amb signatures resistents a QC&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Threshold Taproot Multisig by &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;nunchuk.io&#x2F;blog&#x2F;taproot-multisig&quot;&gt;Nunchuk&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Proof of Ownership. Discussió de les esmenes al &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;blob&#x2F;master&#x2F;bip-0137.mediawiki&quot;&gt;BIP137&lt;&#x2F;a&gt; per incloure estàndards per a les signatures Schnorr, classic multisig i musig.&lt;&#x2F;li&gt;
+&lt;li&gt;Time Warp Attacks. Comparativa de l&#x27;atac &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;topics&#x2F;time-warp&#x2F;&quot;&gt;original&lt;&#x2F;a&gt; amb la &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2024&#x2F;08&#x2F;16&#x2F;#new-time-warp-vulnerability-in-testnet4&quot;&gt;nova versió&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;2024 Bitcoin Rewind by &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2024&#x2F;12&#x2F;20&#x2F;&quot;&gt;Bitcoin Optech&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;estadistiques-de-la-xarxa&quot;&gt;Estadistiques de la Xarxa&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;&quot;&gt;mempool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;clarkmoody.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;esdeveniments&quot;&gt;Esdeveniments&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;noticies&quot;&gt;Notícies&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;llancaments&quot;&gt;Llançaments&lt;&#x2F;h4&gt;
+&lt;h4 id=&quot;&quot;&gt;...&lt;&#x2F;h4&gt;
+</description>
+      </item>
+    </channel>
+</rss>
