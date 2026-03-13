@@ -18,4 +18,10 @@ Si t'agradaria donar suport al projecte mitjançant una donació, si us plau, co
 
 <a href="https://www.libreriadesatoshi.com/b4os" target="_blank" rel="noopener nofollow">B4OS</a> - Programa gratuït de formació tècnica sobre Bitcoin per a desenvolupadors.
 
+<a href="https://bitronics.store/" target="_blank" rel="noopener nofollow">
+<img src="/bittronics.png" alt="Bitronics logo" style="width:30%;height:30%;border:0;">
+</a>
+
+<a href="https://bitronics.store/" target="_blank" rel="noopener nofollow">Bitronics</a> - Dissenyadors i desenvolupadors de FOSH.
+
 [bitdevsbarcelona@gmail.com]: mailito:bitdevsbarcelona@gmail.com
