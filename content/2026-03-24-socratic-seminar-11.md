@@ -14,8 +14,8 @@ Escola d'Enginyeria de la Universitat Autònoma de Barcelona. [Google Maps]\
 Aula Shannon - Agafeu l'ascensor a l'entrada fins a la 2a planta. Sortint de l'ascensor a l'esquerra, l'aula Shannon queda a l'esquerra del passadís.
 
 ### Anuncis
-Estem molt contents de poder presentar el nostre novè [Seminari Socràtic](/about)!\
-Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) per ajudar amb algunes despeses del projecte i a la UAB per l'espai.
+Estem molt contents de poder presentar el nostre onzè [Seminari Socràtic](/about)!\
+Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) i [Bitronics](https://bitronics.store/) per ajudar amb algunes despeses del projecte i a la UAB per l'espai.
 
 ### Recordatoris
 - No es faran fotografies ni vídeos de les cares dels participants sense el seu consentiment.
