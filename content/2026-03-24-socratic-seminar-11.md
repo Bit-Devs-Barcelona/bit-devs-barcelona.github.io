@@ -24,7 +24,8 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) i [Bitronics](https:
 
 ### Temes
 
-- TBA
+- [Què fan les pools de mineria quan hi ha un fork?](https://b10c.me/blog/014-mining-pool-behavior-during-forks/) El comportament no és sempre l'esperat.
+- Com s'han d'ordenar les transaccions en chunks i clusters en la nova [cluster mempool](https://github.com/bitcoin/bitcoin/pull/34257)?
 
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
