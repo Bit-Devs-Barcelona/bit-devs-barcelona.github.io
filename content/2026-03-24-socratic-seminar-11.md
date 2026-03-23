@@ -26,6 +26,8 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) i [Bitronics](https:
 
 - [Què fan les pools de mineria quan hi ha un fork?](https://b10c.me/blog/014-mining-pool-behavior-during-forks/) El comportament no és sempre l'esperat.
 - Com s'han d'ordenar les transaccions en chunks i clusters en la nova [cluster mempool](https://github.com/bitcoin/bitcoin/pull/34257)?
+- [P2SKH](https://github.com/sashabeton/bips/blob/3cb9e07984b571e9510370ab7e7218620be580dc/p2skh.md): Pay to Schnorr Key Hash, a proposal for a new native SegWit output type using witness version 2.
+- [fedimint](https://github.com/fedimint/fedimint)/ecash 101: [blind signatures](https://fedimint.org/docs/CommonTerms/Blind%20Signatures), [distributed consensus](https://fedimint.org/docs/MiniMintDetails/Consensus), federated multisig, etc.
 
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
