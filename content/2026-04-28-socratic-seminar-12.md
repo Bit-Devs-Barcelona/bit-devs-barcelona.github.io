@@ -27,7 +27,7 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) i [Bitronics](https:
 - [rentsomehash.com](https://rentsomehash.com/) Una guia pràctica sobre com minar a mitjana escala amb pràcticament 0 CAPEX.
 - [BIP-369 or: How I Learned To Stop Worrying And Love The Quantum Computer](https://europeanbitcoiners.com/bip-369-or-how-i-learned-to-stop-worrying-and-love-the-quantum-computer/): Mitigació d'atacs quantum d'exposició curta deshabilitant RBF.
 - [peer](https://www.peer.xyz/): ZKP2P protocol - Exchange entre Fiat i Bitcoin; permissionless i non‑custodial. [Documentació sobre el protocol](https://docs.peer.xyz/protocol/zkp2p-protocol).
--[Slow Blocks Demo](https://delvingbitcoin.org/t/consensus-cleanup-demo-of-slow-blocks-on-signet/2367): Demo en temps real sobre com poden afectar els slow blocks que el [BIP54](https://bips.dev/54/)-Consensus Cleanup soluciona.
+- [Slow Blocks Demo](https://delvingbitcoin.org/t/consensus-cleanup-demo-of-slow-blocks-on-signet/2367): Demo en temps real sobre com poden afectar els slow blocks que el [BIP54](https://bips.dev/54/)-Consensus Cleanup soluciona.
 - [Oblivious shares] - Una roposta de canvi de l'algoritme de PoW per a que els ASICs no puguin determinar si les shares que troba són guanyadores o no. Teòricament soluciona els [block withholding attacks](https://bitcoinops.org/en/topics/block-withholding/). Requereix un hard fork. Altres links d'interès: [Mailing-List](https://groups.google.com/g/bitcoindev/c/1tDke1a2e_Q), [Conversa arcaica interessant (2011)](https://bitcointalk.org/index.php?topic=6577.0), [Bitcoin OpTech](https://bitcoinops.org/en/newsletters/2024/08/09/#block-withholding-attacks-and-potential-solutions).
 
 
