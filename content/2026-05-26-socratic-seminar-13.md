@@ -23,8 +23,9 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) i [Bitronics](https:
 
 ### Temes
 
-TBA
-
+- [bitview](https://bitview.space/) és un explorador de blocks amb un munt de gràfiques i informació per veure.
+- [minsc](https://min.sc/), a Miniscript-based scripting language for Bitcoin contracts. Minsc is a high-level scripting language for expressing Bitcoin Script spending conditions. It is based on the Miniscript Policy language, with additional features and syntactic sugar.
+- [BBO Signet Playground](https://github.com/BcnBitcoinOnly/signet-playground), stack de desenvolupament que ara inclou també un servidor Frigate. Varem repassar Frigate al [seminari #9](https://bitdevsbarcelona.org/socratic-seminar-9/).
 
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
