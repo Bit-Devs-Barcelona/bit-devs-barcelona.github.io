@@ -24,8 +24,10 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) i [Bitronics](https:
 ### Temes
 
 - [bitview](https://bitview.space/) és un explorador de blocks amb un munt de gràfiques i informació per veure.
-- [minsc](https://min.sc/), a Miniscript-based scripting language for Bitcoin contracts. Minsc is a high-level scripting language for expressing Bitcoin Script spending conditions. It is based on the Miniscript Policy language, with additional features and syntactic sugar.
+- [minsc](https://min.sc/), un llenguatge de scripting basat en Miniscript. Minsc és un llenguatge de scripting d'alt nivell per expressar scripts de Bitcoin. Està basat en Miniscript amb algunes característiques extra.
 - [BBO Signet Playground](https://github.com/BcnBitcoinOnly/signet-playground), stack de desenvolupament que ara inclou també un servidor Frigate. Varem repassar Frigate al [seminari #9](https://bitdevsbarcelona.org/socratic-seminar-9/).
+- (Proposta de debat)[P2P UTXO Set Sharing](https://groups.google.com/g/bitcoindev/c/rThmyI8ZN3Q) - Proposta de BIP actualment en draft per compartir l'estat de UTXO set sobre la xarxa P2P.
+- [Post](https://bnoc.xyz/t/did-the-number-of-reachable-nodes-in-residential-isps-increase-since-bitcoin-core-v30-0/122) - Ha augmentat el numero de listening nodes en areas residencials des de Bitcoin Core v30.0?. Moment en el que es va canviar el valor de l'opció `-natpmp` ([wikipedia](https://en.wikipedia.org/wiki/NAT_Port_Mapping_Protocol)) a 1 per defecte.
 
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
