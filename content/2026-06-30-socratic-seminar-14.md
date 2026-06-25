@@ -23,7 +23,12 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) i [Bitronics](https:
 
 ### Temes
 
-- TBA
+- [bitnode](bitnode.es) - [Aconsegueix tenir feature parity](https://x.com/BitMEXResearch/status/2066591458514145395) (_les mateixes eines i capacitats_) amb bitnodes en només un mes.
+- [BitDevs Map](https://www.bitdevsmap.org/) - Mapa interactiu on poder veure a on es fan BitDevs arreu del món.
+- [Bitcoin TUI](https://github.com/janb84/bitcoin-tui) - Una interfície que et permet veure informació sobre el teu node com ara la blockchain, mempool, dades dels peers, etc. des de la terminal.
+- [GridPool](https://gridpool.net/) - Segona pool de mineria basada en el protocol DATUM.
+- [Rented Hash Mining data](https://pablohere.contrapeso.xyz/writings/10-million-sats-into-mining.html) - En anteriors bitdevs vam comentar com llogar hashrate i ens vam quedar en el dubte de quins beneficis, costos i utilitat podríem obtenir. Després d'experimentar-ho ara en tenim dades.
+- [BIP95 Testnet5](https://github.com/bitcoin/bips/pull/2196) - Nova proposta de BIP per una nova Testnet 5 on s'intenta solucionar alguns dels problemes que la Testnet4 té.
 
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
