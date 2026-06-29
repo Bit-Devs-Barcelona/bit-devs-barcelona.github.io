@@ -28,6 +28,7 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) i [Bitronics](https:
 - [Bitcoin TUI](https://github.com/janb84/bitcoin-tui) - Una interfície que et permet veure informació sobre el teu node com ara la blockchain, mempool, dades dels peers, etc. des de la terminal.
 - [GridPool](https://gridpool.net/) - Segona pool de mineria basada en el protocol DATUM.
 - [Rented Hash Mining data](https://pablohere.contrapeso.xyz/writings/10-million-sats-into-mining.html) - En anteriors bitdevs vam comentar com llogar hashrate i ens vam quedar en el dubte de quins beneficis, costos i utilitat podríem obtenir. Després d'experimentar-ho ara en tenim dades.
+- [Startum V2](https://stratumprotocol.org/specification/00-abstract/) guanya adopció: Bitaxe [implementa](https://github.com/bitaxeorg/ESP-Miner/pull/1553) el protocol i [DMND]() mina [un bloc](https://mempool.space/block/00000000000000000001a5bae00659902a120ea02bed9046aaf56651f673d5f6) a mainnet.
 - [BIP95 Testnet5](https://github.com/bitcoin/bips/pull/2196) - Nova proposta de BIP per una nova Testnet 5 on s'intenta solucionar alguns dels problemes que la Testnet4 té.
 
 #### Estadistiques de la Xarxa
