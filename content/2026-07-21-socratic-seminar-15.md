@@ -24,7 +24,11 @@ Agrair en aquesta edició a [Rewind Bitcoin](https://rewindbitcoin.com/) per fin
 
 ### Temes
 
-- TBA
+- [Radar.chat](https://radar.chat/) - Una nova app que utilitza el protocol de Signal que habilita els pagaments de Bitcoin integrats en els xats-
+- [Eliminació del BIP125](https://groups.google.com/g/bitcoindev/c/C7zNIk8llew/m/YAdpwe33AgAJ) - Bitcoin Core proposa deprecar el [BIP125 - Opt-in RBF](https://bips.dev/125/) i s'obre el debat a si s'hauria de senyalitzar per defecte o no.
+- [Ashigaru Desktop](https://x.com/linkinparkrulz_/status/2068190216188211660) - Un frontend amb interfícia gràfica per la wallet d'Ashigaru.
+- [eCash](https://x.com/Truthcoin/status/2047639261453680838) - Un nou hardfork de Bitcoin.
+- [Hornet Node](https://delvingbitcoin.org/t/hornet-update-a-declarative-executable-specification-of-consensus-rules/2420) - Una versió executable de l'especificació de les regles de consens de Bitcoin.
 
 #### Estadistiques de la Xarxa
 - [mempool.space](https://mempool.space/)
