@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+    <title>
+        BitDevs Barcelona
+    </title>
+
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon"/>
+
+    <link rel="stylesheet" href="/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/ff76f56428.js" crossorigin="anonymous"></script>
+</head>
+
+
+<body>
+
+  <div class="Site">
+
+    <header class="Header">
+      <div class="Header-inner">
+        <div class="Header-logo">
+          <a href="/">BitDevs Barcelona</a>
+        </div>
+        <nav class="Header-nav">
+          <a href="/about">Sobre nosaltres</a>
+          <a href="/support" rel="noopener nofollow">Suport</a>
+          
+          
+        </nav>
+      </div>
+      <div class="Header-border">
+        ==============================================================================================================================================================
+      </div>
+    </header>
+
+    
+<section>
+    <div class="Post">
+        <h1 class="Post-title">Seminari Socràtic #17</h1>
+        <div class="Post-info">
+            <span>2026-10-27</span>
+            
+        </div>
+        
+
+        <div class="Post-content"><h3 id="agenda">Agenda</h3>
+<p>18:00h Presentacions<br />
+18:15h Seminari Socràtic on es revisaran múltiples temes relacionats amb Bitcoin<br />
+20:00h Tancament</p>
+<h3 id="ubicacio">Ubicació</h3>
+<p>Escola d'Enginyeria de la Universitat Autònoma de Barcelona. <a rel="noopener" target="_blank" href="https://maps.app.goo.gl/a6EQgpF9yjr68nhV9">Google Maps</a><br />
+Aula Shannon - Agafeu l'ascensor a l'entrada fins a la 2a planta. Sortint de l'ascensor a l'esquerra, l'aula Shannon queda a l'esquerra del passadís.</p>
+<h3 id="anuncis">Anuncis</h3>
+<p>Estem molt contents de poder presentar el nostre setzè <a href="/about">Seminari Socràtic</a>!<br />
+Agraiments a <a rel="noopener" target="_blank" href="https://www.libreriadesatoshi.com/b4os">B4OS</a> i <a rel="noopener" target="_blank" href="https://bitronics.store/">Bitronics</a> per ajudar amb algunes despeses del projecte i a la UAB per l'espai.</p>
+<h3 id="recordatoris">Recordatoris</h3>
+<ul>
+<li>No es faran fotografies ni vídeos de les cares dels participants sense el seu consentiment.</li>
+<li>Proposa temes pel Seminari Socràtic! <a rel="noopener" target="_blank" href="https://github.com/Bit-Devs-Barcelona/bit-devs-barcelona.github.io/issues">Pots obrir una issue al repo de GitHub</a> proposant un tema per parlar. <a href="/about/find-topics/">On trobar temes?</a></li>
+</ul>
+<h3 id="temes">Temes</h3>
+<h5 id="consens-i-protocol">Consens i protocol</h5>
+<ul>
+<li><a rel="noopener" target="_blank" href="https://github.com/Bit-Devs-Barcelona/bit-devs-barcelona.github.io/issues/66">Hashrate wars</a> - Debat sobre l'impacte del desajust entre l'adopció de nodes i l'adopció de hashrate en l'èxit dels soft forks, arran del BIP110: què passa quan un soft fork té poc hashrate al darrere i els nodes l'acaben abandonant pels temps de bloc llargs de la cadena del fork.</li>
+<li><a rel="noopener" target="_blank" href="https://github.com/bitcoin/bips/blob/master/bip-0448.md">BIP448: Taproot-native (Re)bindable Transactions</a> - This is a draft soft fork by Greg Sanders, Antoine Poinsot and Steven Roose. It bundles OP_TEMPLATEHASH (BIP446), OP_CHECKSIGFROMSTACK (BIP348) and OP_INTERNALKEY (BIP349) into tapscript to enable rebindable signatures: a signature committing to a template hash instead of a specific input, so it can spend any output with a matching script. Use cases: LN-Symmetry (eltoo), multiparty channels, simpler statechains, Ark variants, delegation and simple vaults: <a rel="noopener" target="_blank" href="https://x.com/satofishi/status/2107603873661596096">The f2pool is open to signal</a>.</li>
+<li><a rel="noopener" target="_blank" href="https://x.com/allocinitxyz/status/2103124026214568209">Shielded bitcoin</a> - Transaccions confidencials a Bitcoin.</li>
+</ul>
+<h5 id="bitcoin-core">Bitcoin Core</h5>
+<ul>
+<li><a rel="noopener" target="_blank" href="https://github.com/bitcoin/bitcoin/blob/32.x/doc/release-notes.md">Bitcoin Core v32.0</a> - Canvis principals: obtenció paral·lela de prevouts de la chainstate (<code>-prevoutfetchthreads</code>), que segons alguns informes fa l'IBD fins a 3 vegades més ràpid; un segon estimator de comissions que també mira la mempool; nous RPCs (<code>exportwatchonlywallet</code>, <code>exportasmap</code>, <code>getopenrpcinfo</code>); PSBTv2 per defecte; taproot eliminat de <code>getdeploymentinfo</code>.</li>
+<li><a rel="noopener" target="_blank" href="https://github.com/bitcoin/bitcoin/issues/36476">New prunned assumevalid proposal in bitcoin core</a> - Mode <code>assumevalid</code> podat opt-in que descarrega blocs sense testimonis, els manté en memòria i els deserialitza i connecta sense escriure blocs ni undo data a disc. En proves inicials, l'IBD podat en una Raspberry Pi 4 de 2 GB passa de ~22 dies a menys d'una setmana (3 dies en un prototip anterior), cosa que podria tornar a fer pràctics els dispositius de gamma baixa.</li>
+</ul>
+<h5 id="wallets-i-seguretat">Wallets i seguretat</h5>
+<ul>
+<li><a rel="noopener" target="_blank" href="https://x.com/drakefjustin/status/2107837081313505768">Bunker mode</a> - Justin Drake fa una crida a entrar en «mode búnquer». Adverteix que els avenços en intel·ligència artificial podrien comprometre la seguretat de la criptografia de les carteres (ECDSA) abans de l'arribada de la computació quàntica.</li>
+<li><a rel="noopener" target="_blank" href="https://github.com/alvroble/savepoint-signer">Savepoint Signer</a> - L'Álvaro, un dels desenvolupadors de SeedSigner, ha modificat el Pokémon Crystal per poder signar una PSBT dins del mateix joc en una Game Boy.</li>
+<li><a rel="noopener" target="_blank" href="https://x.com/Ledger_Support/status/2108551100613714002">Més de 86 M$ robats a usuaris de Ledger al sud-est asiàtic</a> - El robatori sembla lligat a un revenedor anomenat CryptoBillis i no a una vulnerabilitat del programari. Apunta a un atac de cadena de subministrament (<a rel="noopener" target="_blank" href="https://x.com/MagicalTux/status/2108576506704548179">fil de MagicalTux</a>) i ja s'està veient també a Europa (<a rel="noopener" target="_blank" href="https://x.com/0xJohannes_/status/2109634517296148568">actualització</a>).</li>
+<li><a rel="noopener" target="_blank" href="https://x.com/secondhq/status/2108065406665805992">Second's Ark explotat per 0,75 BTC</a> - Un atacant va explotar un bug al servidor d'Ark de Second el 5 d'octubre i va robar 0,75 BTC de la liquiditat de la mateixa empresa (<a rel="noopener" target="_blank" href="https://x.com/BitcoinNewsCom/status/2108173726789321183">anunci</a>).</li>
+</ul>
+<h5 id="eines-i-desenvolupament">Eines i desenvolupament</h5>
+<ul>
+<li><a rel="noopener" target="_blank" href="https://github.com/bitfiles-io/bpub">bitfiles</a> - Permet incrustar dades arbitràries a Bitcoin (i a Blake2b) codificant-les en suposades pubkeys comprimides de secp256k1. Sembla que algú ja ha començat a encodar un munt d'imatges a la cadena de Blake2b (<a rel="noopener" target="_blank" href="https://bitfiles.io/btcb2">bitfiles.io/btcb2</a>).</li>
+<li><a rel="noopener" target="_blank" href="https://github.com/1ma/secp256k1-php">Reboot de secp256k1-php</a> - Antigament es podia fer servir libsecp256k1 des de PHP amb una extensió nativa escrita en C que portava 7 anys sense rebre manteniment i que no compilava amb cap versió recent de PHP. Ara s'ha rellançat el projecte.</li>
+</ul>
+<h4 id="estadistiques-de-la-xarxa">Estadistiques de la Xarxa</h4>
+<ul>
+<li><a rel="noopener" target="_blank" href="https://mempool.space/">mempool.space</a></li>
+<li><a rel="noopener" target="_blank" href="https://bitcoin.clarkmoody.com/dashboard/">clarkmoody.com</a></li>
+</ul>
+<h4 id="esdeveniments">Esdeveniments</h4>
+<h4 id="noticies">Notícies</h4>
+<h4 id="llancaments">Llançaments</h4>
+<h4 id="">...</h4>
+</div>
+    </div>
+</section>
+
+
+
+    <footer class="Footer">
+    <div class="Footer-border">
+        ==============================================================================================================================================================
+    </div>
+    <div class="Footer-inner">
+        <div class="Footer-source">
+        
+            <a href="https:&#x2F;&#x2F;github.com&#x2F;Bit-Devs-Barcelona&#x2F;bit-devs-barcelona.github.io" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+        
+    </div>
+        <div class="Footer-rss">
+            <a href="/rss.xml">RSS Feed</a>
+        </div>
+    </div>
+</footer>
+
+  </div>
+
+</body>
+
+
+</html>
