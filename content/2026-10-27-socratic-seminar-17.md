@@ -29,7 +29,7 @@ Agraiments a [B4OS](https://www.libreriadesatoshi.com/b4os) i [Bitronics](https:
 - [Shielded bitcoin](https://x.com/allocinitxyz/status/2103124026214568209) - Transaccions confidencials a Bitcoin.
 
 ##### Bitcoin Core
-- [Bitcoin Core v32.0](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/32.0-Release-Notes-Draft) - Canvis principals: obtenció paral·lela de prevouts de la chainstate (`-prevoutfetchthreads`), que segons alguns informes fa l'IBD fins a 3 vegades més ràpid; un segon estimator de comissions que també mira la mempool; nous RPCs (`exportwatchonlywallet`, `exportasmap`, `getopenrpcinfo`); PSBTv2 per defecte; taproot eliminat de `getdeploymentinfo`.
+- [Bitcoin Core v32.0](https://github.com/bitcoin/bitcoin/blob/32.x/doc/release-notes.md) - Canvis principals: obtenció paral·lela de prevouts de la chainstate (`-prevoutfetchthreads`), que segons alguns informes fa l'IBD fins a 3 vegades més ràpid; un segon estimator de comissions que també mira la mempool; nous RPCs (`exportwatchonlywallet`, `exportasmap`, `getopenrpcinfo`); PSBTv2 per defecte; taproot eliminat de `getdeploymentinfo`.
 - [New prunned assumevalid proposal in bitcoin core](https://github.com/bitcoin/bitcoin/issues/36476) - Mode `assumevalid` podat opt-in que descarrega blocs sense testimonis, els manté en memòria i els deserialitza i connecta sense escriure blocs ni undo data a disc. En proves inicials, l'IBD podat en una Raspberry Pi 4 de 2 GB passa de ~22 dies a menys d'una setmana (3 dies en un prototip anterior), cosa que podria tornar a fer pràctics els dispositius de gamma baixa.
 
 ##### Wallets i seguretat
